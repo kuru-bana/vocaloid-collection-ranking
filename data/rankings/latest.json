@@ -1,6 +1,6 @@
 {
   "source": "https://vocaloid-collection.jp",
-  "collected_at": "2026-08-21T03:27:00.238800+09:00",
+  "collected_at": "2026-08-21T03:30:00.000191+09:00",
   "rankings": {
     "top100": {
       "label": "TOP100",
@@ -51,13 +51,13 @@
       "end": "2026-08-24T17:00:00+09:00"
     },
     "source_url": "https://vocaloid-collection.jp/exhibition/",
-    "count": 761,
-    "total_count": 761,
+    "count": 762,
+    "total_count": 762,
     "has_next": false,
     "tag": "ボカコレ2026夏ex",
     "tag_url": "https://www.nicovideo.jp/tag/%E3%83%9C%E3%82%AB%E3%82%B3%E3%83%AC2026%E5%A4%8Fex",
-    "page_size": 761,
-    "embedded_item_count": 761,
+    "page_size": 762,
+    "embedded_item_count": 762,
     "items": [
       {
         "rank": 1,
@@ -65,10 +65,10 @@
         "title": "少女A - いよわRemix",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 23881,
+          "view": 23916,
           "comment": 1286,
-          "mylist": 533,
-          "like": 3229
+          "mylist": 534,
+          "like": 3232
         },
         "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46694226/46694226.34171032",
         "owner_name": "いよわ",
@@ -80,9 +80,9 @@
         "title": "アンガーマネジメント feat. 宮舞モカ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 5812,
+          "view": 5820,
           "comment": 419,
-          "mylist": 311,
+          "mylist": 312,
           "like": 937
         },
         "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46691239/46691239.16015892",
@@ -95,7 +95,7 @@
         "title": "irreversible / 鳴花ヒメ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 3239,
+          "view": 3244,
           "comment": 195,
           "mylist": 267,
           "like": 564
@@ -110,7 +110,7 @@
         "title": "EXPLODE LOAD / あぢさゐ×オヨイダキビス feat.鏡音レン",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 1884,
+          "view": 1886,
           "comment": 164,
           "mylist": 231,
           "like": 432
@@ -125,10 +125,10 @@
         "title": "スワンプマン / ゲキヤク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 2024,
+          "view": 2025,
           "comment": 128,
           "mylist": 227,
-          "like": 431
+          "like": 432
         },
         "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46694104/46694104.73701645",
         "owner_name": "Rafutsuri",
@@ -140,8 +140,8 @@
         "title": "メランコリーミント / 初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 1858,
-          "comment": 113,
+          "view": 1861,
+          "comment": 114,
           "mylist": 201,
           "like": 379
         },
@@ -155,9 +155,9 @@
         "title": "麦茶、わくわくするなぁ - feat.重音テト",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 2066,
+          "view": 2069,
           "comment": 224,
-          "mylist": 131,
+          "mylist": 132,
           "like": 416
         },
         "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46574942/46574942.58668503",
@@ -170,7 +170,7 @@
         "title": "｢こ｣と言ったら加速してしまう個々々々々々人",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 2805,
+          "view": 2807,
           "comment": 291,
           "mylist": 78,
           "like": 453
@@ -185,7 +185,7 @@
         "title": "トーキョーマーメイド / BuNNY TRAP feat.PASTEL･音街ウナ&重音テト",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 2164,
+          "view": 2165,
           "comment": 601,
           "mylist": 125,
           "like": 342
@@ -215,7 +215,7 @@
         "title": "透明セカイ / 重音テト&Ryo(SynthesizerV)【陽澄リョウ】",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 1256,
+          "view": 1257,
           "comment": 219,
           "mylist": 125,
           "like": 311
@@ -230,9 +230,9 @@
         "title": "QUIRK!!/重音テト",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 1931,
+          "view": 1934,
           "comment": 90,
-          "mylist": 121,
+          "mylist": 122,
           "like": 312
         },
         "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46574938/46574938.48904688",
@@ -245,7 +245,7 @@
         "title": "太陽ポカポカで草　Kaeru Jam Remix /なみぐる, kondo, 眠田峯, ワアダキナノ, koge",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 1220,
+          "view": 1222,
           "comment": 199,
           "mylist": 131,
           "like": 286
@@ -260,7 +260,7 @@
         "title": "L I F E/AI ナースロボ＿タイプＴ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 1026,
+          "view": 1029,
           "comment": 66,
           "mylist": 137,
           "like": 238
@@ -275,7 +275,7 @@
         "title": "スクランブル / 初音ミク",
         "registered_at": "2026-08-20T21:00:00+09:00",
         "counts": {
-          "view": 1018,
+          "view": 1019,
           "comment": 98,
           "mylist": 120,
           "like": 247
@@ -290,7 +290,7 @@
         "title": "ノドニワルイ（3種の知声でラップ盛り！テクノスピーチ 大感謝Remix）",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 824,
+          "view": 826,
           "comment": 308,
           "mylist": 117,
           "like": 221
@@ -335,7 +335,7 @@
         "title": "『アシンメトリー・フェザー』feat.Yuma & Hayden",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 1269,
+          "view": 1271,
           "comment": 424,
           "mylist": 101,
           "like": 222
@@ -350,7 +350,7 @@
         "title": "プロバティオディアボリカ / ぐちり feat. KAITO",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 1169,
+          "view": 1171,
           "comment": 60,
           "mylist": 106,
           "like": 215
@@ -365,7 +365,7 @@
         "title": "i to I  /  ﾐﾆﾏﾑｶｰﾀｰfeat.初音ミク",
         "registered_at": "2026-08-20T19:11:05+09:00",
         "counts": {
-          "view": 990,
+          "view": 991,
           "comment": 84,
           "mylist": 111,
           "like": 205
@@ -410,7 +410,7 @@
         "title": "ぼんでぼんでみゅーじっく！ / ナツメイツキ & 花隈千冬【茶々ラギ】",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 797,
+          "view": 798,
           "comment": 195,
           "mylist": 81,
           "like": 209
@@ -425,7 +425,7 @@
         "title": "ダイバアジェンス / 初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 848,
+          "view": 851,
           "comment": 63,
           "mylist": 95,
           "like": 190
@@ -440,7 +440,7 @@
         "title": "未完成のアルペジオ　/　サラ＆リリカ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 815,
+          "view": 817,
           "comment": 137,
           "mylist": 90,
           "like": 195
@@ -470,7 +470,7 @@
         "title": "鳥獣戯歌　/　音街ウナ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 851,
+          "view": 852,
           "comment": 79,
           "mylist": 86,
           "like": 165
@@ -500,7 +500,7 @@
         "title": "MOONSHINE / Sceno Ichiro feat. 知声",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 628,
+          "view": 630,
           "comment": 84,
           "mylist": 80,
           "like": 159
@@ -515,7 +515,7 @@
         "title": "QOLOURS【本当のルーキー祭り2025秋 参加者共作】",
         "registered_at": "2026-08-20T19:00:28+09:00",
         "counts": {
-          "view": 1193,
+          "view": 1197,
           "comment": 328,
           "mylist": 48,
           "like": 185
@@ -530,7 +530,7 @@
         "title": "『隅』 初音ミク・夢ノ結唱HALO",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 561,
+          "view": 566,
           "comment": 33,
           "mylist": 87,
           "like": 140
@@ -545,7 +545,7 @@
         "title": "くじらをおって/城京 feat.初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 715,
+          "view": 717,
           "comment": 33,
           "mylist": 85,
           "like": 138
@@ -590,7 +590,7 @@
         "title": "gun - ナースロボ＿タイプＴ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 528,
+          "view": 529,
           "comment": 36,
           "mylist": 79,
           "like": 134
@@ -605,7 +605,7 @@
         "title": "われてもすゑに／鏡音レン",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 882,
+          "view": 883,
           "comment": 246,
           "mylist": 58,
           "like": 150
@@ -665,7 +665,7 @@
         "title": "diealog / ネヂェム",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 447,
+          "view": 448,
           "comment": 31,
           "mylist": 72,
           "like": 122
@@ -680,7 +680,7 @@
         "title": "作田恒星 feat. 鏡音リン, 鏡音レン - 逃げる二体",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 475,
+          "view": 477,
           "comment": 36,
           "mylist": 70,
           "like": 116
@@ -710,7 +710,7 @@
         "title": "twil!ght / Trinity Arcana",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 534,
+          "view": 535,
           "comment": 28,
           "mylist": 55,
           "like": 117
@@ -725,7 +725,7 @@
         "title": "reito / Ryo",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 429,
+          "view": 430,
           "comment": 172,
           "mylist": 57,
           "like": 112
@@ -785,7 +785,7 @@
         "title": "もうちょっと / 初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 452,
+          "view": 453,
           "comment": 28,
           "mylist": 56,
           "like": 105
@@ -800,7 +800,7 @@
         "title": "【ボカコレex】夢見るカノコ feat.鏡音リン・神威がくぽ/イエロー",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 550,
+          "view": 551,
           "comment": 267,
           "mylist": 53,
           "like": 106
@@ -830,7 +830,7 @@
         "title": "死ぬこと理論/初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 563,
+          "view": 565,
           "comment": 163,
           "mylist": 31,
           "like": 127
@@ -841,11 +841,26 @@
       },
       {
         "rank": 53,
+        "watch_id": "sm46579641",
+        "title": "【創世のヴァルキュリア】Gem on my way! feat.石動珪子（CV:Synthesizer V 2 AI 夢ノ結唱 POPY）",
+        "registered_at": "2026-08-20T19:00:00+09:00",
+        "counts": {
+          "view": 516,
+          "comment": 100,
+          "mylist": 44,
+          "like": 113
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46579641/46579641.23259367",
+        "owner_name": "文之丞（あやのすけ）",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46579641"
+      },
+      {
+        "rank": 54,
         "watch_id": "sm46686255",
         "title": "プレイソング / 2997 feat.重音テトSV",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 502,
+          "view": 504,
           "comment": 32,
           "mylist": 52,
           "like": 105
@@ -855,12 +870,12 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46686255"
       },
       {
-        "rank": 54,
+        "rank": 55,
         "watch_id": "sm46681641",
         "title": "永遠なんだね - IA",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 470,
+          "view": 472,
           "comment": 134,
           "mylist": 45,
           "like": 112
@@ -870,7 +885,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46681641"
       },
       {
-        "rank": 55,
+        "rank": 56,
         "watch_id": "sm46576063",
         "title": "なんでもない日の宝物 / ジャージ佐藤 feat. 小春六花",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -885,27 +900,12 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46576063"
       },
       {
-        "rank": 56,
-        "watch_id": "sm46579641",
-        "title": "【創世のヴァルキュリア】Gem on my way! feat.石動珪子（CV:Synthesizer V 2 AI 夢ノ結唱 POPY）",
-        "registered_at": "2026-08-20T19:00:00+09:00",
-        "counts": {
-          "view": 515,
-          "comment": 100,
-          "mylist": 43,
-          "like": 112
-        },
-        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46579641/46579641.23259367",
-        "owner_name": "文之丞（あやのすけ）",
-        "nico_url": "https://www.nicovideo.jp/watch/sm46579641"
-      },
-      {
         "rank": 57,
         "watch_id": "sm46692407",
         "title": "ノット・アローン / 重音テトSV2",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 460,
+          "view": 461,
           "comment": 35,
           "mylist": 52,
           "like": 103
@@ -920,7 +920,7 @@
         "title": "【GUMI＆フリモメン】What Color Is the Sky?【ボカコレ2026夏ex参加曲】",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 499,
+          "view": 504,
           "comment": 111,
           "mylist": 32,
           "like": 120
@@ -935,7 +935,7 @@
         "title": "「琥珀色の泡とキミ」初音ミク/Rion凛音P",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 393,
+          "view": 395,
           "comment": 160,
           "mylist": 49,
           "like": 101
@@ -950,10 +950,10 @@
         "title": "かなしばり / 靴紐 feat.重音テトSV",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 432,
+          "view": 434,
           "comment": 31,
           "mylist": 49,
-          "like": 100
+          "like": 101
         },
         "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46686339/46686339.92280707",
         "owner_name": "靴紐",
@@ -965,7 +965,7 @@
         "title": "「存在証明 (feat.重音テト , ナースロボ＿タイプＴ )」 / 麻乃テキ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 437,
+          "view": 438,
           "comment": 66,
           "mylist": 43,
           "like": 105
@@ -995,7 +995,7 @@
         "title": "落花情 / 落花情 -LAKKAJOU- (feat.花奏)",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 465,
+          "view": 467,
           "comment": 89,
           "mylist": 36,
           "like": 110
@@ -1010,7 +1010,7 @@
         "title": "再生 / 歌愛ユキ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 490,
+          "view": 491,
           "comment": 40,
           "mylist": 43,
           "like": 101
@@ -1055,7 +1055,7 @@
         "title": "残骸 - 兎角菫 feat. 足立レイ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 466,
+          "view": 467,
           "comment": 59,
           "mylist": 42,
           "like": 94
@@ -1070,7 +1070,7 @@
         "title": "終夏論 / 双葉湊音 - タタン・トルタ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 357,
+          "view": 358,
           "comment": 28,
           "mylist": 43,
           "like": 93
@@ -1085,7 +1085,7 @@
         "title": "たりないColor feat.花隈千冬 / フラジールセル",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 457,
+          "view": 459,
           "comment": 117,
           "mylist": 30,
           "like": 106
@@ -1100,7 +1100,7 @@
         "title": "Ella - 初音ミク と ちだうちだ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 359,
+          "view": 360,
           "comment": 25,
           "mylist": 55,
           "like": 79
@@ -1115,7 +1115,7 @@
         "title": "笑顔のアンセム / 音街ウナ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 453,
+          "view": 454,
           "comment": 21,
           "mylist": 35,
           "like": 95
@@ -1145,7 +1145,7 @@
         "title": "どうか / shinmai feat.初音ミク",
         "registered_at": "2026-08-20T19:25:03+09:00",
         "counts": {
-          "view": 328,
+          "view": 329,
           "comment": 38,
           "mylist": 41,
           "like": 88
@@ -1280,7 +1280,7 @@
         "title": "DRESS UP MAKE UP CHEER UP / 初音ミク 重音テト GUMI 桜乃そら ついなちゃん 双葉湊音",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 1261,
+          "view": 1263,
           "comment": 130,
           "mylist": 21,
           "like": 99
@@ -1325,7 +1325,7 @@
         "title": "HIASOBI feat. 夏色花梨【VAJRALIA】",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 353,
+          "view": 355,
           "comment": 220,
           "mylist": 24,
           "like": 91
@@ -1336,11 +1336,26 @@
       },
       {
         "rank": 86,
+        "watch_id": "sm46637029",
+        "title": "シーゴースト/音街ウナ",
+        "registered_at": "2026-08-20T19:00:00+09:00",
+        "counts": {
+          "view": 398,
+          "comment": 23,
+          "mylist": 31,
+          "like": 81
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46637029/46637029.2681178",
+        "owner_name": "でんぽん",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46637029"
+      },
+      {
+        "rank": 87,
         "watch_id": "sm46693040",
         "title": "避暑地を探してる feat.歌愛ユキ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 307,
+          "view": 308,
           "comment": 17,
           "mylist": 35,
           "like": 77
@@ -1350,7 +1365,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46693040"
       },
       {
-        "rank": 87,
+        "rank": 88,
         "watch_id": "sm46575004",
         "title": "空傍にfeat.初音ミクV6",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -1365,27 +1380,12 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46575004"
       },
       {
-        "rank": 88,
-        "watch_id": "sm46637029",
-        "title": "シーゴースト/音街ウナ",
-        "registered_at": "2026-08-20T19:00:00+09:00",
-        "counts": {
-          "view": 397,
-          "comment": 23,
-          "mylist": 31,
-          "like": 80
-        },
-        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46637029/46637029.2681178",
-        "owner_name": "でんぽん",
-        "nico_url": "https://www.nicovideo.jp/watch/sm46637029"
-      },
-      {
         "rank": 89,
         "watch_id": "sm46601967",
         "title": "未達 / 初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 330,
+          "view": 331,
           "comment": 40,
           "mylist": 30,
           "like": 80
@@ -1415,7 +1415,7 @@
         "title": "ブルースターの灯 / ２２０ feat. 重音テト＆宮舞モカ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 310,
+          "view": 311,
           "comment": 108,
           "mylist": 24,
           "like": 86
@@ -1430,7 +1430,7 @@
         "title": "頑張れないマーチ / 初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 309,
+          "view": 310,
           "comment": 18,
           "mylist": 40,
           "like": 69
@@ -1490,7 +1490,7 @@
         "title": "つきのみやこに。/雪歌ユフ・ナースロボ_タイプT",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 333,
+          "view": 334,
           "comment": 43,
           "mylist": 32,
           "like": 74
@@ -1550,8 +1550,8 @@
         "title": "ハッピーデイ/短いBGM屋さん feat.弦巻マキ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 313,
-          "comment": 139,
+          "view": 314,
+          "comment": 140,
           "mylist": 16,
           "like": 82
         },
@@ -1580,7 +1580,7 @@
         "title": "この力『ラフレイン』feat.鳴花ヒメ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 248,
+          "view": 249,
           "comment": 16,
           "mylist": 36,
           "like": 62
@@ -1625,7 +1625,7 @@
         "title": "中本VS味仙（げんぞRockのみ調べ）/ げんそRock feat.夏色花梨",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 280,
+          "view": 281,
           "comment": 86,
           "mylist": 15,
           "like": 81
@@ -1670,7 +1670,7 @@
         "title": "ユメミガチ症候群 / おぴよ feat. 星界",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 488,
+          "view": 489,
           "comment": 110,
           "mylist": 30,
           "like": 66
@@ -1730,7 +1730,7 @@
         "title": "とける / 初音ミク",
         "registered_at": "2026-08-20T19:04:40+09:00",
         "counts": {
-          "view": 678,
+          "view": 679,
           "comment": 25,
           "mylist": 33,
           "like": 59
@@ -1775,7 +1775,7 @@
         "title": "日常が融けていく / v flower",
         "registered_at": "2026-08-20T19:00:46+09:00",
         "counts": {
-          "view": 249,
+          "view": 250,
           "comment": 19,
           "mylist": 29,
           "like": 60
@@ -1836,7 +1836,7 @@
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
           "view": 245,
-          "comment": 23,
+          "comment": 24,
           "mylist": 25,
           "like": 61
         },
@@ -1880,7 +1880,7 @@
         "title": "すっぴんぽん　/　初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 275,
+          "view": 276,
           "comment": 141,
           "mylist": 23,
           "like": 59
@@ -1940,7 +1940,7 @@
         "title": "うたかた /feat.無來",
         "registered_at": "2026-08-20T19:29:48+09:00",
         "counts": {
-          "view": 339,
+          "view": 340,
           "comment": 19,
           "mylist": 29,
           "like": 50
@@ -1985,7 +1985,7 @@
         "title": "イガク - こうこうRemix / 重音テト",
         "registered_at": "2026-08-20T19:11:41+09:00",
         "counts": {
-          "view": 245,
+          "view": 246,
           "comment": 32,
           "mylist": 18,
           "like": 57
@@ -2075,7 +2075,7 @@
         "title": "魚753 / 重音テト",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 208,
+          "view": 209,
           "comment": 9,
           "mylist": 26,
           "like": 42
@@ -2090,7 +2090,7 @@
         "title": "遠い夢の話 / 紲星あかりV6",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 223,
+          "view": 224,
           "comment": 8,
           "mylist": 18,
           "like": 50
@@ -2150,7 +2150,7 @@
         "title": "Vocaloid Collection 2026 Summer - UNFX",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 246,
+          "view": 247,
           "comment": 86,
           "mylist": 19,
           "like": 48
@@ -2191,6 +2191,21 @@
       },
       {
         "rank": 143,
+        "watch_id": "sm46685865",
+        "title": "新曲出せませんでした／鏡音リン",
+        "registered_at": "2026-08-20T19:00:00+09:00",
+        "counts": {
+          "view": 256,
+          "comment": 65,
+          "mylist": 16,
+          "like": 50
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46685865/46685865.19458409",
+        "owner_name": "よし屋＠吉屋りん",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46685865"
+      },
+      {
+        "rank": 144,
         "watch_id": "sm46692895",
         "title": "「ろりぽっ / めいてい feat.鏡音レン」",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -2205,7 +2220,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46692895"
       },
       {
-        "rank": 144,
+        "rank": 145,
         "watch_id": "sm46691642",
         "title": "ことなかれ feat.裏命",
         "registered_at": "2026-08-20T19:57:55+09:00",
@@ -2220,7 +2235,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46691642"
       },
       {
-        "rank": 145,
+        "rank": 146,
         "watch_id": "sm46690652",
         "title": "紅蓮 feat.MAYU",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -2235,7 +2250,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46690652"
       },
       {
-        "rank": 146,
+        "rank": 147,
         "watch_id": "sm46614927",
         "title": "perte/花奏",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -2248,21 +2263,6 @@
         "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46614927/46614927.19735223",
         "owner_name": "如月ましろ",
         "nico_url": "https://www.nicovideo.jp/watch/sm46614927"
-      },
-      {
-        "rank": 147,
-        "watch_id": "sm46685865",
-        "title": "新曲出せませんでした／鏡音リン",
-        "registered_at": "2026-08-20T19:00:00+09:00",
-        "counts": {
-          "view": 256,
-          "comment": 65,
-          "mylist": 15,
-          "like": 50
-        },
-        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46685865/46685865.19458409",
-        "owner_name": "よし屋＠吉屋りん",
-        "nico_url": "https://www.nicovideo.jp/watch/sm46685865"
       },
       {
         "rank": 148,
@@ -2315,7 +2315,7 @@
         "title": "THX!! / マヨネル_リャオ feat.重音テトSV",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 226,
+          "view": 227,
           "comment": 35,
           "mylist": 9,
           "like": 53
@@ -2345,7 +2345,7 @@
         "title": "myriad / 如月青藍 feat. 那由歌",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 179,
+          "view": 180,
           "comment": 9,
           "mylist": 20,
           "like": 42
@@ -2360,7 +2360,7 @@
         "title": "【エレキベースが主役】愛錠-あいじょう-　初音ミク［かつみ］",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 207,
+          "view": 208,
           "comment": 39,
           "mylist": 12,
           "like": 50
@@ -2420,7 +2420,7 @@
         "title": "【伊織弓鶴】私の愛した標本【オリジナル曲】",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 342,
+          "view": 344,
           "comment": 17,
           "mylist": 17,
           "like": 45
@@ -2450,7 +2450,7 @@
         "title": "俺のやり方 / フリモメン",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 241,
+          "view": 242,
           "comment": 86,
           "mylist": 12,
           "like": 48
@@ -2465,7 +2465,7 @@
         "title": "Where you belong（マヨイドリ） / ピロッシー ft. Solaria",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 168,
+          "view": 169,
           "comment": 51,
           "mylist": 14,
           "like": 46
@@ -2525,7 +2525,7 @@
         "title": "【カップル4組中3組は別れる説】かわうそ堂／feat：花響 琴",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 172,
+          "view": 173,
           "comment": 51,
           "mylist": 8,
           "like": 52
@@ -2600,7 +2600,7 @@
         "title": "君を探す【東北きりたん】",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 221,
+          "view": 222,
           "comment": 27,
           "mylist": 11,
           "like": 47
@@ -2615,7 +2615,7 @@
         "title": "ロールバック - めろう",
         "registered_at": "2026-08-20T19:01:14+09:00",
         "counts": {
-          "view": 245,
+          "view": 246,
           "comment": 4,
           "mylist": 12,
           "like": 45
@@ -2630,7 +2630,7 @@
         "title": "星屑列車 / Mesh feat.GUMI",
         "registered_at": "2026-08-20T22:00:00+09:00",
         "counts": {
-          "view": 191,
+          "view": 192,
           "comment": 6,
           "mylist": 11,
           "like": 46
@@ -2720,7 +2720,7 @@
         "title": "bootlegger / デフォ子  (譜面確認)",
         "registered_at": "2026-08-20T19:27:23+09:00",
         "counts": {
-          "view": 243,
+          "view": 244,
           "comment": 8,
           "mylist": 20,
           "like": 36
@@ -2896,11 +2896,26 @@
       },
       {
         "rank": 190,
+        "watch_id": "sm46693338",
+        "title": "ふたりでふんわり消えていくしかないね / 初音ミク×星界【オリジナル】",
+        "registered_at": "2026-08-20T19:00:00+09:00",
+        "counts": {
+          "view": 248,
+          "comment": 8,
+          "mylist": 15,
+          "like": 38
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46693338/46693338.8795460",
+        "owner_name": "ネON",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46693338"
+      },
+      {
+        "rank": 191,
         "watch_id": "sm46670730",
         "title": "Embreath/カミヰユウ feat.ナースロボ＿タイプT",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 165,
+          "view": 166,
           "comment": 33,
           "mylist": 11,
           "like": 43
@@ -2910,12 +2925,12 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46670730"
       },
       {
-        "rank": 191,
+        "rank": 192,
         "watch_id": "sm46686823",
         "title": "Vivace/GUMI SV【オリジナル】",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 183,
+          "view": 184,
           "comment": 9,
           "mylist": 16,
           "like": 36
@@ -2925,7 +2940,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46686823"
       },
       {
-        "rank": 192,
+        "rank": 193,
         "watch_id": "sm46669050",
         "title": "おまじない☆feat.初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -2940,27 +2955,12 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46669050"
       },
       {
-        "rank": 193,
-        "watch_id": "sm46693338",
-        "title": "ふたりでふんわり消えていくしかないね / 初音ミク×星界【オリジナル】",
-        "registered_at": "2026-08-20T19:00:00+09:00",
-        "counts": {
-          "view": 247,
-          "comment": 8,
-          "mylist": 15,
-          "like": 37
-        },
-        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46693338/46693338.8795460",
-        "owner_name": "ネON",
-        "nico_url": "https://www.nicovideo.jp/watch/sm46693338"
-      },
-      {
         "rank": 194,
         "watch_id": "sm46692710",
         "title": "サマーループ・コーストライン / 初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 162,
+          "view": 163,
           "comment": 16,
           "mylist": 16,
           "like": 36
@@ -2975,7 +2975,7 @@
         "title": "夏暮れ　feat.初音ミク",
         "registered_at": "2026-08-20T19:28:12+09:00",
         "counts": {
-          "view": 198,
+          "view": 199,
           "comment": 24,
           "mylist": 8,
           "like": 43
@@ -3035,7 +3035,7 @@
         "title": "あいまいごっこ／U-BOW 【歌愛ユキ】",
         "registered_at": "2026-08-20T19:30:00+09:00",
         "counts": {
-          "view": 268,
+          "view": 270,
           "comment": 23,
           "mylist": 12,
           "like": 39
@@ -3095,7 +3095,7 @@
         "title": "サイレンサー・ガール／feat. 小春六花・宮舞モカ",
         "registered_at": "2026-08-20T22:03:42+09:00",
         "counts": {
-          "view": 155,
+          "view": 156,
           "comment": 14,
           "mylist": 12,
           "like": 38
@@ -3110,7 +3110,7 @@
         "title": "BLACK GAME feat ナツメイツキ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 173,
+          "view": 174,
           "comment": 37,
           "mylist": 10,
           "like": 39
@@ -3125,7 +3125,7 @@
         "title": "ドキムネディスコ / Req1000 feat 彩澄しゅお & 彩澄りりせ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 308,
+          "view": 309,
           "comment": 25,
           "mylist": 2,
           "like": 47
@@ -3140,7 +3140,7 @@
         "title": "真夏のクリアブルーfeat.初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 161,
+          "view": 162,
           "comment": 41,
           "mylist": 11,
           "like": 38
@@ -3170,7 +3170,7 @@
         "title": "ちゃーみんぐらびてぃ / 知声",
         "registered_at": "2026-08-20T19:00:53+09:00",
         "counts": {
-          "view": 175,
+          "view": 176,
           "comment": 27,
           "mylist": 10,
           "like": 39
@@ -3185,7 +3185,7 @@
         "title": "【ボカコレ2026夏ex】田所ケイ / Go! Go! ちびっ子ヒーロー　feat.重音テト",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 174,
+          "view": 176,
           "comment": 24,
           "mylist": 5,
           "like": 44
@@ -3215,7 +3215,7 @@
         "title": "True Rookie5",
         "registered_at": "2026-08-20T21:00:00+09:00",
         "counts": {
-          "view": 178,
+          "view": 179,
           "comment": 41,
           "mylist": 3,
           "like": 45
@@ -3230,7 +3230,7 @@
         "title": "夏の鼓動 feat.京町セイカ,夏色花梨",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 186,
+          "view": 187,
           "comment": 27,
           "mylist": 15,
           "like": 33
@@ -3275,7 +3275,7 @@
         "title": "My Little Pony / t.g.w feat.花隈千冬",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 189,
+          "view": 190,
           "comment": 28,
           "mylist": 15,
           "like": 33
@@ -3305,7 +3305,7 @@
         "title": "凪いでしまえ！ feat.初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 199,
+          "view": 200,
           "comment": 8,
           "mylist": 12,
           "like": 36
@@ -3395,7 +3395,7 @@
         "title": "Clear Blue / Miya feat. 可不",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 178,
+          "view": 179,
           "comment": 6,
           "mylist": 8,
           "like": 39
@@ -3421,6 +3421,21 @@
       },
       {
         "rank": 225,
+        "watch_id": "sm46633162",
+        "title": "War dance / ゲキヤクV",
+        "registered_at": "2026-08-20T19:00:00+09:00",
+        "counts": {
+          "view": 194,
+          "comment": 20,
+          "mylist": 12,
+          "like": 34
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46633162/46633162.92059698",
+        "owner_name": "u.P",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46633162"
+      },
+      {
+        "rank": 226,
         "watch_id": "sm46678501",
         "title": "夏の残響 feat.初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -3435,12 +3450,12 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46678501"
       },
       {
-        "rank": 226,
+        "rank": 227,
         "watch_id": "sm46685133",
         "title": "暮れた君、探す私　feat,初音ミク×知声",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 152,
+          "view": 154,
           "comment": 34,
           "mylist": 9,
           "like": 36
@@ -3450,7 +3465,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46685133"
       },
       {
-        "rank": 227,
+        "rank": 228,
         "watch_id": "sm46694016",
         "title": "花信 / 大森優 + 初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -3465,7 +3480,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46694016"
       },
       {
-        "rank": 228,
+        "rank": 229,
         "watch_id": "sm46664620",
         "title": "ムーンライトブルー / 初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -3478,21 +3493,6 @@
         "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46664620/46664620.77719696",
         "owner_name": "Mocker",
         "nico_url": "https://www.nicovideo.jp/watch/sm46664620"
-      },
-      {
-        "rank": 229,
-        "watch_id": "sm46633162",
-        "title": "War dance / ゲキヤクV",
-        "registered_at": "2026-08-20T19:00:00+09:00",
-        "counts": {
-          "view": 192,
-          "comment": 20,
-          "mylist": 11,
-          "like": 33
-        },
-        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46633162/46633162.92059698",
-        "owner_name": "u.P",
-        "nico_url": "https://www.nicovideo.jp/watch/sm46633162"
       },
       {
         "rank": 230,
@@ -3530,7 +3530,7 @@
         "title": "【小春六花＆花隈千冬】夕凪と終のアリア【オリジナル曲】",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 179,
+          "view": 180,
           "comment": 10,
           "mylist": 9,
           "like": 35
@@ -3575,7 +3575,7 @@
         "title": "【オリジナル曲】カラフルモンスター　宮舞モカ＆小春六花",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 462,
+          "view": 463,
           "comment": 31,
           "mylist": 3,
           "like": 40
@@ -3590,7 +3590,7 @@
         "title": "受験受かりますように / あくたばちゃん",
         "registered_at": "2026-08-20T19:09:25+09:00",
         "counts": {
-          "view": 153,
+          "view": 154,
           "comment": 10,
           "mylist": 16,
           "like": 27
@@ -3635,7 +3635,7 @@
         "title": "でんぐり返し！/初音ミク",
         "registered_at": "2026-08-20T19:33:39+09:00",
         "counts": {
-          "view": 194,
+          "view": 195,
           "comment": 15,
           "mylist": 11,
           "like": 32
@@ -3695,7 +3695,7 @@
         "title": "東京サブテラ感情線 / そふくれーみん feat. 曇歌むじな",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 133,
+          "view": 134,
           "comment": 8,
           "mylist": 14,
           "like": 28
@@ -3785,7 +3785,7 @@
         "title": "Moon / 重音テト・ナースロボ＿タイプT",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 157,
+          "view": 158,
           "comment": 11,
           "mylist": 10,
           "like": 31
@@ -3860,7 +3860,7 @@
         "title": "Impostor ／ rurikohaku feat.知声",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 149,
+          "view": 151,
           "comment": 17,
           "mylist": 9,
           "like": 32
@@ -3890,7 +3890,7 @@
         "title": "フィーバー・グリムリーパー/花隈千冬",
         "registered_at": "2026-08-20T20:59:22+09:00",
         "counts": {
-          "view": 374,
+          "view": 375,
           "comment": 10,
           "mylist": 5,
           "like": 34
@@ -3965,7 +3965,7 @@
         "title": "BAY AREA -Five Years After- / 足立レイ",
         "registered_at": "2026-08-20T21:00:00+09:00",
         "counts": {
-          "view": 157,
+          "view": 158,
           "comment": 32,
           "mylist": 10,
           "like": 29
@@ -3995,7 +3995,7 @@
         "title": "自意識への対処法を記録した一本のクソ動画【ずんだもん】",
         "registered_at": "2026-08-20T19:00:37+09:00",
         "counts": {
-          "view": 189,
+          "view": 190,
           "comment": 9,
           "mylist": 12,
           "like": 26
@@ -4036,11 +4036,26 @@
       },
       {
         "rank": 266,
+        "watch_id": "sm46693824",
+        "title": "【ボカコレ2026夏ex】けにゃP feat. 鏡音リン「悦曜日」",
+        "registered_at": "2026-08-20T19:00:00+09:00",
+        "counts": {
+          "view": 141,
+          "comment": 35,
+          "mylist": 7,
+          "like": 30
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46693824/46693824.28295503",
+        "owner_name": "kenya / けにゃP",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46693824"
+      },
+      {
+        "rank": 267,
         "watch_id": "sm46670775",
         "title": "月下美人／Dancing Cloud",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 121,
+          "view": 122,
           "comment": 31,
           "mylist": 7,
           "like": 30
@@ -4050,7 +4065,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46670775"
       },
       {
-        "rank": 267,
+        "rank": 268,
         "watch_id": "sm46691824",
         "title": "君のいない、春が来る。 / 花隈千冬",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -4065,7 +4080,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46691824"
       },
       {
-        "rank": 268,
+        "rank": 269,
         "watch_id": "sm46584227",
         "title": "【音街ウナ】Moonlit Prayer【ボカコレ2026夏・ウナオリジナル曲・Ex】",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -4080,7 +4095,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46584227"
       },
       {
-        "rank": 269,
+        "rank": 270,
         "watch_id": "sm46651327",
         "title": "雨上がり /志無 feat.Fukase&結月ゆかり",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -4095,7 +4110,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46651327"
       },
       {
-        "rank": 270,
+        "rank": 271,
         "watch_id": "sm46692965",
         "title": "花火 feat.知声/みーるP",
         "registered_at": "2026-08-20T19:00:36+09:00",
@@ -4110,12 +4125,12 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46692965"
       },
       {
-        "rank": 271,
+        "rank": 272,
         "watch_id": "sm46666581",
         "title": "心臓レプリカ / feat.初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 167,
+          "view": 168,
           "comment": 19,
           "mylist": 2,
           "like": 35
@@ -4125,7 +4140,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46666581"
       },
       {
-        "rank": 272,
+        "rank": 273,
         "watch_id": "sm46666478",
         "title": "サマーエンド / feat.初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -4140,7 +4155,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46666478"
       },
       {
-        "rank": 273,
+        "rank": 274,
         "watch_id": "sm46694123",
         "title": "魔法紀行 / 小春六花",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -4155,7 +4170,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46694123"
       },
       {
-        "rank": 274,
+        "rank": 275,
         "watch_id": "sm46682371",
         "title": "テーブルクロス引き　1日目",
         "registered_at": "2026-08-21T00:00:00+09:00",
@@ -4170,12 +4185,12 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46682371"
       },
       {
-        "rank": 275,
+        "rank": 276,
         "watch_id": "sm46695007",
         "title": "白と灰の狭間で  ～Scent of Tide and Smoke～/Sound Papa P feat.初音ミク",
         "registered_at": "2026-08-20T20:56:06+09:00",
         "counts": {
-          "view": 119,
+          "view": 120,
           "comment": 36,
           "mylist": 7,
           "like": 29
@@ -4183,21 +4198,6 @@
         "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46695007/46695007.40777676",
         "owner_name": "Sound Papa P",
         "nico_url": "https://www.nicovideo.jp/watch/sm46695007"
-      },
-      {
-        "rank": 276,
-        "watch_id": "sm46693824",
-        "title": "【ボカコレ2026夏ex】けにゃP feat. 鏡音リン「悦曜日」",
-        "registered_at": "2026-08-20T19:00:00+09:00",
-        "counts": {
-          "view": 139,
-          "comment": 34,
-          "mylist": 7,
-          "like": 29
-        },
-        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46693824/46693824.28295503",
-        "owner_name": "kenya / けにゃP",
-        "nico_url": "https://www.nicovideo.jp/watch/sm46693824"
       },
       {
         "rank": 277,
@@ -4295,7 +4295,7 @@
         "title": "眠れぬ森のファンタジア feat.巡音ルカ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 132,
+          "view": 133,
           "comment": 4,
           "mylist": 12,
           "like": 23
@@ -4355,7 +4355,7 @@
         "title": "【(V)RE(al)MIX MMD】ブレインロット / 夏色花梨【SynthV_Cover】",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 326,
+          "view": 327,
           "comment": 11,
           "mylist": 7,
           "like": 27
@@ -4415,7 +4415,7 @@
         "title": "おさんぽ　feat.ふたばこみなと",
         "registered_at": "2026-08-20T20:44:34+09:00",
         "counts": {
-          "view": 136,
+          "view": 137,
           "comment": 8,
           "mylist": 11,
           "like": 23
@@ -4460,7 +4460,7 @@
         "title": "[House]アイスクリーム feat.裏命 - Mocha Cat",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 210,
+          "view": 211,
           "comment": 2,
           "mylist": 9,
           "like": 25
@@ -4505,7 +4505,7 @@
         "title": "Venus / Yoshihi feat.初音ミク、宮舞モカ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 218,
+          "view": 219,
           "comment": 11,
           "mylist": 6,
           "like": 27
@@ -4520,7 +4520,7 @@
         "title": "あたしはみていた feat.重音テト＆Mai",
         "registered_at": "2026-08-20T19:33:23+09:00",
         "counts": {
-          "view": 172,
+          "view": 173,
           "comment": 8,
           "mylist": 7,
           "like": 26
@@ -4565,7 +4565,7 @@
         "title": "『零埋ル』 足立レイ/九十九シオン",
         "registered_at": "2026-08-20T19:11:07+09:00",
         "counts": {
-          "view": 150,
+          "view": 151,
           "comment": 6,
           "mylist": 5,
           "like": 28
@@ -4580,7 +4580,7 @@
         "title": "五千兆蘊皆空",
         "registered_at": "2026-08-20T19:04:34+09:00",
         "counts": {
-          "view": 158,
+          "view": 159,
           "comment": 20,
           "mylist": 8,
           "like": 25
@@ -4666,11 +4666,26 @@
       },
       {
         "rank": 308,
+        "watch_id": "sm46694382",
+        "title": "クローバーが見つからない！/知声",
+        "registered_at": "2026-08-20T19:10:04+09:00",
+        "counts": {
+          "view": 145,
+          "comment": 4,
+          "mylist": 6,
+          "like": 26
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46694382/46694382.60504625",
+        "owner_name": "西依",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46694382"
+      },
+      {
+        "rank": 309,
         "watch_id": "sm46694360",
         "title": "残響の夜に",
         "registered_at": "2026-08-20T19:06:55+09:00",
         "counts": {
-          "view": 153,
+          "view": 154,
           "comment": 17,
           "mylist": 4,
           "like": 28
@@ -4680,7 +4695,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46694360"
       },
       {
-        "rank": 309,
+        "rank": 310,
         "watch_id": "sm46695557",
         "title": "任意の言葉で溺死する　feat.初音ミク・鏡音リン",
         "registered_at": "2026-08-20T22:11:38+09:00",
@@ -4695,12 +4710,12 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46695557"
       },
       {
-        "rank": 310,
+        "rank": 311,
         "watch_id": "sm46596970",
         "title": "がらくた / 初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 207,
+          "view": 208,
           "comment": 2,
           "mylist": 7,
           "like": 25
@@ -4710,7 +4725,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46596970"
       },
       {
-        "rank": 311,
+        "rank": 312,
         "watch_id": "sm46691158",
         "title": "Mizuha - 曙光 feat.初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -4725,7 +4740,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46691158"
       },
       {
-        "rank": 312,
+        "rank": 313,
         "watch_id": "sm46691762",
         "title": "悪役-Villain- /こりやまぞんび feat.重音テト",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -4740,7 +4755,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46691762"
       },
       {
-        "rank": 313,
+        "rank": 314,
         "watch_id": "sm46656858",
         "title": "114（いいよ） / 中ちくP＆知声 with 雨衣",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -4755,7 +4770,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46656858"
       },
       {
-        "rank": 314,
+        "rank": 315,
         "watch_id": "sm46685875",
         "title": "【ボカコレ】hONEy / チーム・グングニル feat. 神威がくぽ・KAITO",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -4770,7 +4785,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46685875"
       },
       {
-        "rank": 315,
+        "rank": 316,
         "watch_id": "sm46693866",
         "title": "Blessed by the light. feat. DUAL SLIT VISION / Izumi Nanaka",
         "registered_at": "2026-08-20T19:00:24+09:00",
@@ -4785,7 +4800,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46693866"
       },
       {
-        "rank": 316,
+        "rank": 317,
         "watch_id": "sm46693160",
         "title": "潮騒、君のよすが / 初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -4800,7 +4815,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46693160"
       },
       {
-        "rank": 317,
+        "rank": 318,
         "watch_id": "sm46694035",
         "title": "アタシに武器を持たせたな？/幽増し豆腐 feat.鏡音リン Music Video",
         "registered_at": "2026-08-20T19:00:40+09:00",
@@ -4815,7 +4830,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46694035"
       },
       {
-        "rank": 318,
+        "rank": 319,
         "watch_id": "sm46639673",
         "title": "Star Generator/GUMI",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -4830,7 +4845,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46639673"
       },
       {
-        "rank": 319,
+        "rank": 320,
         "watch_id": "sm46665789",
         "title": "You Have Just Broken My Heart ft. KOTO & GUMI(オリジナル)",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -4845,12 +4860,12 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46665789"
       },
       {
-        "rank": 320,
+        "rank": 321,
         "watch_id": "sm46629253",
         "title": "狐憑き　feat.鏡音レン",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 140,
+          "view": 141,
           "comment": 5,
           "mylist": 6,
           "like": 25
@@ -4860,7 +4875,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46629253"
       },
       {
-        "rank": 321,
+        "rank": 322,
         "watch_id": "sm46695100",
         "title": "セーブポイント / SynthV Mai",
         "registered_at": "2026-08-20T21:04:24+09:00",
@@ -4875,7 +4890,22 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46695100"
       },
       {
-        "rank": 322,
+        "rank": 323,
+        "watch_id": "sm46694478",
+        "title": "次は終電です / ナースロボ＿タイプＴ",
+        "registered_at": "2026-08-20T19:19:23+09:00",
+        "counts": {
+          "view": 127,
+          "comment": 2,
+          "mylist": 8,
+          "like": 23
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46694478/46694478.86857698",
+        "owner_name": "夕焼け",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46694478"
+      },
+      {
+        "rank": 324,
         "watch_id": "sm46688377",
         "title": "公園",
         "registered_at": "2026-08-20T19:01:04+09:00",
@@ -4890,7 +4920,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46688377"
       },
       {
-        "rank": 323,
+        "rank": 325,
         "watch_id": "sm46575227",
         "title": "イザヨイ・メモリー(ボカコレ2026夏参加曲)(ザ・ヴォーカロイズ)(LV KAITO)(GUEST 水奈瀬リト)",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -4905,12 +4935,12 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46575227"
       },
       {
-        "rank": 324,
+        "rank": 326,
         "watch_id": "sm46575228",
         "title": "ララバイ・バイ・バイバイ(FULL版)(ボカコレ2026夏参加曲)(ザ・ヴォーカロイズ)",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 134,
+          "view": 135,
           "comment": 23,
           "mylist": 4,
           "like": 26
@@ -4920,7 +4950,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46575228"
       },
       {
-        "rank": 325,
+        "rank": 327,
         "watch_id": "sm46652279",
         "title": "冷花／RUHIA feat.那由歌",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -4935,22 +4965,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46652279"
       },
       {
-        "rank": 326,
-        "watch_id": "sm46694382",
-        "title": "クローバーが見つからない！/知声",
-        "registered_at": "2026-08-20T19:10:04+09:00",
-        "counts": {
-          "view": 144,
-          "comment": 4,
-          "mylist": 5,
-          "like": 25
-        },
-        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46694382/46694382.60504625",
-        "owner_name": "西依",
-        "nico_url": "https://www.nicovideo.jp/watch/sm46694382"
-      },
-      {
-        "rank": 327,
+        "rank": 328,
         "watch_id": "sm46694525",
         "title": "【オリジナル曲】あのね。feat.IA",
         "registered_at": "2026-08-20T19:46:20+09:00",
@@ -4965,7 +4980,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46694525"
       },
       {
-        "rank": 328,
+        "rank": 329,
         "watch_id": "sm46677400",
         "title": "【栗果】逆転/初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -4978,21 +4993,6 @@
         "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46677400/46677400.689449",
         "owner_name": "栗果",
         "nico_url": "https://www.nicovideo.jp/watch/sm46677400"
-      },
-      {
-        "rank": 329,
-        "watch_id": "sm46694478",
-        "title": "次は終電です / ナースロボ＿タイプＴ",
-        "registered_at": "2026-08-20T19:19:23+09:00",
-        "counts": {
-          "view": 127,
-          "comment": 2,
-          "mylist": 8,
-          "like": 22
-        },
-        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46694478/46694478.86857698",
-        "owner_name": "夕焼け",
-        "nico_url": "https://www.nicovideo.jp/watch/sm46694478"
       },
       {
         "rank": 330,
@@ -5030,7 +5030,7 @@
         "title": "晩夏の頃 / ジャージ佐藤 feat. 花隈千冬",
         "registered_at": "2026-08-21T00:00:00+09:00",
         "counts": {
-          "view": 87,
+          "view": 88,
           "comment": 19,
           "mylist": 7,
           "like": 22
@@ -5045,7 +5045,7 @@
         "title": "よるのうみ / 知声",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 77,
+          "view": 78,
           "comment": 10,
           "mylist": 9,
           "like": 20
@@ -5060,7 +5060,7 @@
         "title": "青い涙 (Acoustic ver.) / feat.小春六花",
         "registered_at": "2026-08-20T19:30:00+09:00",
         "counts": {
-          "view": 117,
+          "view": 118,
           "comment": 53,
           "mylist": 6,
           "like": 23
@@ -5075,7 +5075,7 @@
         "title": "Chill in Death / feat. 狐子 & GUMI SV",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 326,
+          "view": 327,
           "comment": 9,
           "mylist": 5,
           "like": 24
@@ -5240,7 +5240,7 @@
         "title": "ささやかなファンファーレ (feat. 夢ノ結晶 HALO) / soundbag",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 106,
+          "view": 107,
           "comment": 9,
           "mylist": 4,
           "like": 23
@@ -5270,7 +5270,7 @@
         "title": "INMU KING REMIX",
         "registered_at": "2026-08-19T20:29:33+09:00",
         "counts": {
-          "view": 616,
+          "view": 620,
           "comment": 8,
           "mylist": 3,
           "like": 26
@@ -5285,7 +5285,7 @@
         "title": "千本桜　壁ニ紛レ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 165,
+          "view": 166,
           "comment": 5,
           "mylist": 2,
           "like": 25
@@ -5420,7 +5420,7 @@
         "title": "ふたりはいっしょ!/鏡音リン・レン",
         "registered_at": "2026-08-20T19:17:49+09:00",
         "counts": {
-          "view": 169,
+          "view": 170,
           "comment": 9,
           "mylist": 7,
           "like": 20
@@ -5510,7 +5510,7 @@
         "title": "雨き声残響 / Orangestar (音街ウナRemix)",
         "registered_at": "2026-08-20T19:55:36+09:00",
         "counts": {
-          "view": 156,
+          "view": 157,
           "comment": 7,
           "mylist": 6,
           "like": 20
@@ -5525,7 +5525,7 @@
         "title": "『Feel the BEAT』波音リツ【ボカコレエキシビジョン参加作品】",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 147,
+          "view": 148,
           "comment": 13,
           "mylist": 4,
           "like": 23
@@ -5540,7 +5540,7 @@
         "title": "闇ノ王子／Feat.初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 126,
+          "view": 127,
           "comment": 8,
           "mylist": 3,
           "like": 23
@@ -5551,11 +5551,26 @@
       },
       {
         "rank": 367,
+        "watch_id": "sm46695827",
+        "title": "一個人/唄音ウタ",
+        "registered_at": "2026-08-20T22:55:13+09:00",
+        "counts": {
+          "view": 87,
+          "comment": 4,
+          "mylist": 11,
+          "like": 15
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46695827/46695827.73286039",
+        "owner_name": "basusan(瀬山)",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46695827"
+      },
+      {
+        "rank": 368,
         "watch_id": "sm46689870",
         "title": "Little Things feat.知声 / ヒイラギ",
         "registered_at": "2026-08-20T22:00:05+09:00",
         "counts": {
-          "view": 82,
+          "view": 83,
           "comment": 1,
           "mylist": 6,
           "like": 20
@@ -5565,12 +5580,12 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46689870"
       },
       {
-        "rank": 368,
+        "rank": 369,
         "watch_id": "sm46694559",
         "title": "命夏 feat.GUMI",
         "registered_at": "2026-08-20T19:29:42+09:00",
         "counts": {
-          "view": 124,
+          "view": 125,
           "comment": 2,
           "mylist": 7,
           "like": 19
@@ -5580,7 +5595,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46694559"
       },
       {
-        "rank": 369,
+        "rank": 370,
         "watch_id": "sm46669200",
         "title": "窓辺は海　窓辺は空 feat. 彩澄しゅお",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -5595,7 +5610,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46669200"
       },
       {
-        "rank": 370,
+        "rank": 371,
         "watch_id": "sm46640646",
         "title": "いかだにのって/初音ミク【ボカコレ2026夏ex】",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -5610,7 +5625,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46640646"
       },
       {
-        "rank": 371,
+        "rank": 372,
         "watch_id": "sm46691315",
         "title": "「し」-宵何れ feat.デフォ子",
         "registered_at": "2026-08-20T20:04:09+09:00",
@@ -5625,7 +5640,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46691315"
       },
       {
-        "rank": 372,
+        "rank": 373,
         "watch_id": "sm46694483",
         "title": "考える /可不",
         "registered_at": "2026-08-20T19:21:38+09:00",
@@ -5640,12 +5655,12 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46694483"
       },
       {
-        "rank": 373,
+        "rank": 374,
         "watch_id": "sm46694873",
         "title": "いのちを越えて　feat.結月ゆかり",
         "registered_at": "2026-08-20T20:35:18+09:00",
         "counts": {
-          "view": 142,
+          "view": 143,
           "comment": 7,
           "mylist": 5,
           "like": 20
@@ -5655,7 +5670,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46694873"
       },
       {
-        "rank": 374,
+        "rank": 375,
         "watch_id": "sm46682151",
         "title": "ソル・デ・アタルデセール／るりねまろfeat.巡音ルカ",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -5670,7 +5685,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46682151"
       },
       {
-        "rank": 375,
+        "rank": 376,
         "watch_id": "sm46693818",
         "title": "夏風/巡音ルカ",
         "registered_at": "2026-08-20T19:04:00+09:00",
@@ -5685,7 +5700,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46693818"
       },
       {
-        "rank": 376,
+        "rank": 377,
         "watch_id": "sm46685434",
         "title": "1iot「空っぽ ft. 重音テト」MV",
         "registered_at": "2026-08-20T20:28:54+09:00",
@@ -5700,7 +5715,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46685434"
       },
       {
-        "rank": 377,
+        "rank": 378,
         "watch_id": "sm46693504",
         "title": "Vase & Junk / 重音テトSV",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -5715,7 +5730,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46693504"
       },
       {
-        "rank": 378,
+        "rank": 379,
         "watch_id": "sm46653982",
         "title": "グッバイ、ハッピーワールド / ft. 鏡音レン&鏡音リン",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -5730,7 +5745,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46653982"
       },
       {
-        "rank": 379,
+        "rank": 380,
         "watch_id": "sm46651809",
         "title": "届いてるよ。／花隈千冬",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -5745,12 +5760,12 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46651809"
       },
       {
-        "rank": 380,
+        "rank": 381,
         "watch_id": "sm46690667",
         "title": "カナシバリ / 雨衣",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 134,
+          "view": 135,
           "comment": 12,
           "mylist": 3,
           "like": 22
@@ -5760,7 +5775,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46690667"
       },
       {
-        "rank": 381,
+        "rank": 382,
         "watch_id": "sm46667388",
         "title": "SEASIDE - でぃみ feat. MEIKO(with KAITO)",
         "registered_at": "2026-08-20T19:02:49+09:00",
@@ -5775,12 +5790,12 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46667388"
       },
       {
-        "rank": 382,
+        "rank": 383,
         "watch_id": "sm46688960",
         "title": "dayan『ガラクタだけど。』feat.初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 144,
+          "view": 145,
           "comment": 6,
           "mylist": 5,
           "like": 20
@@ -5790,12 +5805,12 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46688960"
       },
       {
-        "rank": 383,
+        "rank": 384,
         "watch_id": "sm46694410",
         "title": "白黒モノローグ feat.桜乃そら",
         "registered_at": "2026-08-20T19:19:24+09:00",
         "counts": {
-          "view": 111,
+          "view": 112,
           "comment": 14,
           "mylist": 2,
           "like": 23
@@ -5805,12 +5820,12 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46694410"
       },
       {
-        "rank": 384,
+        "rank": 385,
         "watch_id": "sm46692987",
         "title": "ヒーローは死んでゆく【AVER】",
         "registered_at": "2026-08-20T19:13:16+09:00",
         "counts": {
-          "view": 116,
+          "view": 117,
           "comment": 5,
           "mylist": 7,
           "like": 18
@@ -5820,7 +5835,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46692987"
       },
       {
-        "rank": 385,
+        "rank": 386,
         "watch_id": "sm46692893",
         "title": "ｱ゜!藤マ!?だ探ｌてる；；らｌぃΘ←ｺﾘゎｼｰﾀぢゃん/足立レイ・栗田まろん・離途",
         "registered_at": "2026-08-20T19:00:00+09:00",
@@ -5835,27 +5850,12 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46692893"
       },
       {
-        "rank": 386,
-        "watch_id": "sm46695827",
-        "title": "一個人/唄音ウタ",
-        "registered_at": "2026-08-20T22:55:13+09:00",
-        "counts": {
-          "view": 86,
-          "comment": 4,
-          "mylist": 11,
-          "like": 14
-        },
-        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46695827/46695827.73286039",
-        "owner_name": "basusan(瀬山)",
-        "nico_url": "https://www.nicovideo.jp/watch/sm46695827"
-      },
-      {
         "rank": 387,
         "watch_id": "sm46690440",
         "title": "泡沫",
         "registered_at": "2026-08-20T19:00:44+09:00",
         "counts": {
-          "view": 111,
+          "view": 112,
           "comment": 3,
           "mylist": 6,
           "like": 19
@@ -5915,7 +5915,7 @@
         "title": "機械の観た未来 / 足立レイ",
         "registered_at": "2026-08-20T19:00:34+09:00",
         "counts": {
-          "view": 211,
+          "view": 213,
           "comment": 9,
           "mylist": 3,
           "like": 21
@@ -5945,7 +5945,7 @@
         "title": "夢で逢えたから【ボカデュオ花隈千冬歌唱Ver】",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 120,
+          "view": 121,
           "comment": 9,
           "mylist": 3,
           "like": 21
@@ -5975,7 +5975,7 @@
         "title": "ヴァルプルギス・マスカレード（動画：歌詞字幕のみ）",
         "registered_at": "2026-08-20T19:32:48+09:00",
         "counts": {
-          "view": 122,
+          "view": 123,
           "comment": 19,
           "mylist": 6,
           "like": 18
@@ -6080,7 +6080,7 @@
         "title": "Impulse/兎眠りおん",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 145,
+          "view": 146,
           "comment": 3,
           "mylist": 3,
           "like": 23
@@ -6140,7 +6140,7 @@
         "title": "想標 / Sec: feat. 箱庭コト【オリジナル】",
         "registered_at": "2026-08-20T19:01:06+09:00",
         "counts": {
-          "view": 88,
+          "view": 89,
           "comment": 2,
           "mylist": 8,
           "like": 16
@@ -6215,7 +6215,7 @@
         "title": "La petite flore, la petite aurore / feat. 那由歌",
         "registered_at": "2026-08-20T19:06:54+09:00",
         "counts": {
-          "view": 79,
+          "view": 80,
           "comment": 3,
           "mylist": 5,
           "like": 18
@@ -6245,7 +6245,7 @@
         "title": "泡沫サイダー feat. 可不",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 102,
+          "view": 103,
           "comment": 4,
           "mylist": 2,
           "like": 21
@@ -6305,7 +6305,7 @@
         "title": "関わるのが限界/初音ミク",
         "registered_at": "2026-08-20T21:00:41+09:00",
         "counts": {
-          "view": 98,
+          "view": 99,
           "comment": 15,
           "mylist": 4,
           "like": 19
@@ -6380,7 +6380,7 @@
         "title": "夏日 featuring 知声",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 101,
+          "view": 102,
           "comment": 7,
           "mylist": 2,
           "like": 21
@@ -6440,7 +6440,7 @@
         "title": "一掬いのルミナス / 花隈千冬",
         "registered_at": "2026-08-21T00:10:00+09:00",
         "counts": {
-          "view": 59,
+          "view": 60,
           "comment": 9,
           "mylist": 7,
           "like": 15
@@ -6455,7 +6455,7 @@
         "title": "RIMINAL_POOL/重音テトSV",
         "registered_at": "2026-08-20T21:38:11+09:00",
         "counts": {
-          "view": 82,
+          "view": 83,
           "comment": 7,
           "mylist": 5,
           "like": 17
@@ -6515,7 +6515,7 @@
         "title": "百鬼夜行 feat.Ci flower",
         "registered_at": "2026-08-20T19:00:14+09:00",
         "counts": {
-          "view": 106,
+          "view": 107,
           "comment": 8,
           "mylist": 2,
           "like": 20
@@ -6545,7 +6545,7 @@
         "title": "またね / 初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 86,
+          "view": 87,
           "comment": 4,
           "mylist": 4,
           "like": 18
@@ -6575,7 +6575,7 @@
         "title": "青春はスーサイドにて。/ カゼヒキ",
         "registered_at": "2026-08-20T20:00:46+09:00",
         "counts": {
-          "view": 95,
+          "view": 96,
           "comment": 16,
           "mylist": 4,
           "like": 17
@@ -6635,7 +6635,7 @@
         "title": "あなたのいる世界なら/重音テト",
         "registered_at": "2026-08-20T20:36:06+09:00",
         "counts": {
-          "view": 85,
+          "view": 86,
           "comment": 11,
           "mylist": 5,
           "like": 16
@@ -6740,7 +6740,7 @@
         "title": "遠い星をめざして / 花隈千冬",
         "registered_at": "2026-08-20T19:02:09+09:00",
         "counts": {
-          "view": 90,
+          "view": 91,
           "comment": 3,
           "mylist": 6,
           "like": 15
@@ -6755,7 +6755,7 @@
         "title": "SignPost/IA",
         "registered_at": "2026-08-20T19:00:20+09:00",
         "counts": {
-          "view": 111,
+          "view": 112,
           "comment": 1,
           "mylist": 4,
           "like": 17
@@ -6770,7 +6770,7 @@
         "title": "【MEIKO】パマパマ【揺れないP】",
         "registered_at": "2026-08-20T20:40:09+09:00",
         "counts": {
-          "view": 82,
+          "view": 84,
           "comment": 7,
           "mylist": 3,
           "like": 17
@@ -6785,7 +6785,7 @@
         "title": "保健室探偵 / 花隈千冬",
         "registered_at": "2026-08-20T23:17:56+09:00",
         "counts": {
-          "view": 144,
+          "view": 147,
           "comment": 11,
           "mylist": 5,
           "like": 15
@@ -6800,7 +6800,7 @@
         "title": "宇宙人　重音テトSV　/　ma10a10",
         "registered_at": "2026-08-20T20:03:58+09:00",
         "counts": {
-          "view": 87,
+          "view": 88,
           "comment": 10,
           "mylist": 3,
           "like": 17
@@ -6815,7 +6815,7 @@
         "title": "嘘つきな私を終わりにする日 / 重音テト",
         "registered_at": "2026-08-20T19:47:26+09:00",
         "counts": {
-          "view": 91,
+          "view": 92,
           "comment": 6,
           "mylist": 4,
           "like": 16
@@ -6845,7 +6845,7 @@
         "title": "音街ウナSVオリジナル曲『音をたどって』",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 163,
+          "view": 164,
           "comment": 2,
           "mylist": 5,
           "like": 15
@@ -6860,7 +6860,7 @@
         "title": "【if】/長瀬匠feat.KAITO，鏡音レン",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 111,
+          "view": 112,
           "comment": 7,
           "mylist": 4,
           "like": 16
@@ -6875,7 +6875,7 @@
         "title": "Keine Zeit / Souken521 feat. 雨衣",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 100,
+          "view": 101,
           "comment": 4,
           "mylist": 1,
           "like": 19
@@ -6905,7 +6905,7 @@
         "title": "StAr / 初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 178,
+          "view": 179,
           "comment": 2,
           "mylist": 4,
           "like": 16
@@ -6980,7 +6980,7 @@
         "title": "春花/なる/夏色花梨",
         "registered_at": "2026-08-20T19:00:10+09:00",
         "counts": {
-          "view": 79,
+          "view": 80,
           "comment": 9,
           "mylist": 3,
           "like": 16
@@ -6995,7 +6995,7 @@
         "title": "【ボカコレ2026夏ex】GIVE ME SHAKE/アヤメ✕ペリカ【SYNTH V】",
         "registered_at": "2026-08-20T22:47:43+09:00",
         "counts": {
-          "view": 75,
+          "view": 76,
           "comment": 8,
           "mylist": 4,
           "like": 15
@@ -7010,7 +7010,7 @@
         "title": "anilta　首輪を外して / Take off my collar feat.初音ミク&重音テト",
         "registered_at": "2026-08-20T19:05:00+09:00",
         "counts": {
-          "view": 79,
+          "view": 80,
           "comment": 2,
           "mylist": 6,
           "like": 13
@@ -7070,7 +7070,7 @@
         "title": "酔いに願うは、 feat.初音ミク",
         "registered_at": "2026-08-20T19:18:57+09:00",
         "counts": {
-          "view": 130,
+          "view": 131,
           "comment": 3,
           "mylist": 7,
           "like": 12
@@ -7085,7 +7085,7 @@
         "title": "わがままごと",
         "registered_at": "2026-08-20T19:08:03+09:00",
         "counts": {
-          "view": 90,
+          "view": 91,
           "comment": 1,
           "mylist": 5,
           "like": 14
@@ -7100,7 +7100,7 @@
         "title": "分かんないからさ。/M053",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 117,
+          "view": 118,
           "comment": 5,
           "mylist": 1,
           "like": 18
@@ -7160,7 +7160,7 @@
         "title": "Impulse/兎眠りおん(Harold Aaron ver)",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 106,
+          "view": 107,
           "comment": 3,
           "mylist": 4,
           "like": 17
@@ -7280,7 +7280,7 @@
         "title": "ナギ / Mai",
         "registered_at": "2026-08-20T21:50:20+09:00",
         "counts": {
-          "view": 64,
+          "view": 65,
           "comment": 17,
           "mylist": 4,
           "like": 14
@@ -7295,7 +7295,7 @@
         "title": "[M2-06]  アサガオ / Mai & Yuma【AMAGURIオリジナル曲】",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 87,
+          "view": 88,
           "comment": 8,
           "mylist": 2,
           "like": 17
@@ -7340,7 +7340,7 @@
         "title": "ごちゃまーぜのパラダイム/ わをるぬ feat.はてにゃむ・足立レイ・露御音ダヲ",
         "registered_at": "2026-08-20T19:03:00+09:00",
         "counts": {
-          "view": 103,
+          "view": 104,
           "comment": 8,
           "mylist": 3,
           "like": 15
@@ -7355,7 +7355,7 @@
         "title": "【廿哥】くりょ",
         "registered_at": "2026-08-20T22:09:00+09:00",
         "counts": {
-          "view": 87,
+          "view": 88,
           "comment": 4,
           "mylist": 6,
           "like": 12
@@ -7370,7 +7370,7 @@
         "title": "【ボカコレ2026夏ex】アンダーワールドモンスターズ/夏色花梨【STEP(ステップ)】",
         "registered_at": "2026-08-20T19:15:29+09:00",
         "counts": {
-          "view": 87,
+          "view": 89,
           "comment": 6,
           "mylist": 4,
           "like": 14
@@ -7475,7 +7475,7 @@
         "title": "【償音ハム（ベータ版）・宵雨らいな-Sunny-】水底までは還れない【UTAUカバー】",
         "registered_at": "2026-08-20T19:07:30+09:00",
         "counts": {
-          "view": 99,
+          "view": 100,
           "comment": 2,
           "mylist": 4,
           "like": 14
@@ -7490,7 +7490,7 @@
         "title": "明日天気になあれ。 / ナースロボ＿タイプT",
         "registered_at": "2026-08-20T19:06:40+09:00",
         "counts": {
-          "view": 87,
+          "view": 88,
           "comment": 0,
           "mylist": 1,
           "like": 17
@@ -7505,7 +7505,7 @@
         "title": "【ベイビーブルー】（Baby Blue）ボカコレ２０２６夏［オルドビスキー博士］",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 118,
+          "view": 119,
           "comment": 14,
           "mylist": 2,
           "like": 15
@@ -7550,7 +7550,7 @@
         "title": "たゆたう夏 feat.知声",
         "registered_at": "2026-08-20T21:56:35+09:00",
         "counts": {
-          "view": 76,
+          "view": 78,
           "comment": 5,
           "mylist": 5,
           "like": 12
@@ -7565,7 +7565,7 @@
         "title": "Lost world / まっちゃそば feat. IA",
         "registered_at": "2026-08-20T22:52:38+09:00",
         "counts": {
-          "view": 60,
+          "view": 61,
           "comment": 4,
           "mylist": 3,
           "like": 14
@@ -7580,7 +7580,7 @@
         "title": "脳内監禁マリオネット / 無來",
         "registered_at": "2026-08-20T21:14:50+09:00",
         "counts": {
-          "view": 98,
+          "view": 99,
           "comment": 4,
           "mylist": 1,
           "like": 16
@@ -7670,7 +7670,7 @@
         "title": "[Off Vocal] ユメミガチ症候群 / おぴよ feat. 星界",
         "registered_at": "2026-08-20T19:46:05+09:00",
         "counts": {
-          "view": 90,
+          "view": 91,
           "comment": 5,
           "mylist": 4,
           "like": 13
@@ -7790,7 +7790,7 @@
         "title": "セミファイナル(feat. 知声) / ザ・ホッピンシャワーズ",
         "registered_at": "2026-08-20T19:50:36+09:00",
         "counts": {
-          "view": 88,
+          "view": 89,
           "comment": 1,
           "mylist": 3,
           "like": 14
@@ -7805,7 +7805,7 @@
         "title": "オーバーラン・オーバーラヴ / 初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 77,
+          "view": 79,
           "comment": 3,
           "mylist": 2,
           "like": 15
@@ -7820,7 +7820,7 @@
         "title": "大地の声 ∕ Lala feat.asa",
         "registered_at": "2026-08-20T19:03:02+09:00",
         "counts": {
-          "view": 81,
+          "view": 82,
           "comment": 2,
           "mylist": 2,
           "like": 15
@@ -7865,7 +7865,7 @@
         "title": "色づく意識からの/夢ノ結唱AVER",
         "registered_at": "2026-08-20T19:00:56+09:00",
         "counts": {
-          "view": 89,
+          "view": 91,
           "comment": 0,
           "mylist": 3,
           "like": 14
@@ -7880,7 +7880,7 @@
         "title": "プロトコル / 無地歌, 非正弦ソウ",
         "registered_at": "2026-08-21T00:20:51+09:00",
         "counts": {
-          "view": 54,
+          "view": 56,
           "comment": 16,
           "mylist": 5,
           "like": 11
@@ -7925,7 +7925,7 @@
         "title": "でもでも feat.重音テト",
         "registered_at": "2026-08-20T19:09:10+09:00",
         "counts": {
-          "view": 94,
+          "view": 95,
           "comment": 5,
           "mylist": 3,
           "like": 13
@@ -7940,7 +7940,7 @@
         "title": "IV.ある水底の葬想",
         "registered_at": "2026-08-20T19:03:10+09:00",
         "counts": {
-          "view": 91,
+          "view": 92,
           "comment": 3,
           "mylist": 4,
           "like": 12
@@ -7955,7 +7955,7 @@
         "title": "【足立レイ】コンボ！！！【オリジナル】",
         "registered_at": "2026-08-20T19:32:01+09:00",
         "counts": {
-          "view": 114,
+          "view": 115,
           "comment": 8,
           "mylist": 2,
           "like": 14
@@ -7970,7 +7970,7 @@
         "title": "ありもちょうちょも/唄音ウタ・重音テト（UTAU）・DJミク（初音ミクV4X）",
         "registered_at": "2026-08-20T20:50:34+09:00",
         "counts": {
-          "view": 75,
+          "view": 76,
           "comment": 8,
           "mylist": 2,
           "like": 14
@@ -8000,7 +8000,7 @@
         "title": "夏への扉 feat. Yuma（Synthesizer V）／Bell to Answer",
         "registered_at": "2026-08-20T20:06:37+09:00",
         "counts": {
-          "view": 99,
+          "view": 100,
           "comment": 14,
           "mylist": 2,
           "like": 14
@@ -8015,7 +8015,7 @@
         "title": "初めての噓 / 10√3 feat.小春六花 [ショート楽曲シリーズ03]",
         "registered_at": "2026-08-20T21:41:58+09:00",
         "counts": {
-          "view": 68,
+          "view": 69,
           "comment": 2,
           "mylist": 3,
           "like": 13
@@ -8030,7 +8030,7 @@
         "title": "My Glorious Sun feat. 重音テトSV",
         "registered_at": "2026-08-20T22:41:42+09:00",
         "counts": {
-          "view": 66,
+          "view": 67,
           "comment": 3,
           "mylist": 3,
           "like": 13
@@ -8060,7 +8060,7 @@
         "title": "【拡散希望】ペットが逃げ出しました。情報提供をお願いします。",
         "registered_at": "2026-08-20T19:00:57+09:00",
         "counts": {
-          "view": 88,
+          "view": 89,
           "comment": 1,
           "mylist": 3,
           "like": 13
@@ -8075,7 +8075,7 @@
         "title": "邂逅！ディメンションシティラジオ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 83,
+          "view": 84,
           "comment": 1,
           "mylist": 3,
           "like": 13
@@ -8165,7 +8165,7 @@
         "title": "バノ-~21.mp4 / v4_flower",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 81,
+          "view": 82,
           "comment": 0,
           "mylist": 1,
           "like": 15
@@ -8180,7 +8180,7 @@
         "title": "コンビニ業界3位のファミリーマートが、7位のam/pmを買収すると正式に発表しました。/唯世かのん【ボカコレ2026夏ex】",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 99,
+          "view": 100,
           "comment": 0,
           "mylist": 4,
           "like": 12
@@ -8225,7 +8225,7 @@
         "title": "知らん。/アオイワイファイ（えもに屈すremix）",
         "registered_at": "2026-08-21T00:52:58+09:00",
         "counts": {
-          "view": 55,
+          "view": 56,
           "comment": 4,
           "mylist": 5,
           "like": 10
@@ -8240,7 +8240,7 @@
         "title": "アメノネ/Shimuichi feat.知声",
         "registered_at": "2026-08-20T19:02:25+09:00",
         "counts": {
-          "view": 108,
+          "view": 109,
           "comment": 5,
           "mylist": 4,
           "like": 11
@@ -8270,7 +8270,7 @@
         "title": "【UTAU】海溝タイムカプセル/洒々落独歩feat.劇団・ウォードの方舟(キキョウ)【ボカコレ2026夏ex】",
         "registered_at": "2026-08-20T20:00:05+09:00",
         "counts": {
-          "view": 47,
+          "view": 49,
           "comment": 14,
           "mylist": 4,
           "like": 11
@@ -8285,7 +8285,7 @@
         "title": "【鏡音リン】Lonely, maybe【オリジナル】",
         "registered_at": "2026-08-20T20:17:15+09:00",
         "counts": {
-          "view": 103,
+          "view": 104,
           "comment": 7,
           "mylist": 1,
           "like": 14
@@ -8345,7 +8345,7 @@
         "title": "タイトウ/ラル・清澄 feat.ゲキヤク",
         "registered_at": "2026-08-20T19:00:18+09:00",
         "counts": {
-          "view": 89,
+          "view": 90,
           "comment": 2,
           "mylist": 5,
           "like": 10
@@ -8420,7 +8420,7 @@
         "title": "累々毀々 - 已然形F feat.小春六花",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 86,
+          "view": 87,
           "comment": 1,
           "mylist": 2,
           "like": 14
@@ -8450,7 +8450,7 @@
         "title": "デンワがコワい!【健音テイ】",
         "registered_at": "2026-08-20T21:28:16+09:00",
         "counts": {
-          "view": 81,
+          "view": 82,
           "comment": 6,
           "mylist": 3,
           "like": 12
@@ -8480,7 +8480,7 @@
         "title": "ゾンビスクロール/flower",
         "registered_at": "2026-08-20T19:00:16+09:00",
         "counts": {
-          "view": 89,
+          "view": 90,
           "comment": 3,
           "mylist": 2,
           "like": 13
@@ -8495,7 +8495,7 @@
         "title": "【夢ノ結唱 POPY】原点配列 (feat. 重音テト) 【オリジナル】",
         "registered_at": "2026-08-20T19:01:45+09:00",
         "counts": {
-          "view": 90,
+          "view": 91,
           "comment": 1,
           "mylist": 3,
           "like": 12
@@ -8555,7 +8555,7 @@
         "title": "初恋味のクレープ feat. IA",
         "registered_at": "2026-08-20T19:05:16+09:00",
         "counts": {
-          "view": 97,
+          "view": 98,
           "comment": 1,
           "mylist": 3,
           "like": 12
@@ -8570,7 +8570,7 @@
         "title": "snnhwomotte / 裏命&可不&ノシゴミツキ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 72,
+          "view": 74,
           "comment": 0,
           "mylist": 3,
           "like": 12
@@ -8600,7 +8600,7 @@
         "title": "【歌愛ユキ・初音ミク・巡音ルカ・GUMI・asa】かえりみち【オリジナル曲】",
         "registered_at": "2026-08-20T21:59:56+09:00",
         "counts": {
-          "view": 69,
+          "view": 70,
           "comment": 3,
           "mylist": 3,
           "like": 11
@@ -8615,7 +8615,7 @@
         "title": "Phantom in Lucretia - ASHODEL feat. Synthesizer V Mai、夏色花梨【Official Lyric Video】",
         "registered_at": "2026-08-20T20:16:40+09:00",
         "counts": {
-          "view": 78,
+          "view": 79,
           "comment": 8,
           "mylist": 1,
           "like": 13
@@ -8645,7 +8645,7 @@
         "title": "感覚がある / 音街ウナ",
         "registered_at": "2026-08-20T19:30:53+09:00",
         "counts": {
-          "view": 106,
+          "view": 107,
           "comment": 4,
           "mylist": 4,
           "like": 10
@@ -8660,7 +8660,7 @@
         "title": "ある睡蓮の一日【月音オリジナル曲】",
         "registered_at": "2026-08-20T19:03:46+09:00",
         "counts": {
-          "view": 87,
+          "view": 88,
           "comment": 4,
           "mylist": 2,
           "like": 12
@@ -8705,7 +8705,7 @@
         "title": "オタマトーンだってボカコレに参加したい！【活動1周年】自分の曲演奏してみた！",
         "registered_at": "2026-08-20T21:16:05+09:00",
         "counts": {
-          "view": 71,
+          "view": 72,
           "comment": 1,
           "mylist": 1,
           "like": 13
@@ -8720,7 +8720,7 @@
         "title": "旅スル者　Vo.花隈千冬",
         "registered_at": "2026-08-20T23:26:11+09:00",
         "counts": {
-          "view": 71,
+          "view": 72,
           "comment": 3,
           "mylist": 0,
           "like": 14
@@ -8735,7 +8735,7 @@
         "title": "Charm Feat.鏡音リン【オリジナル】",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 87,
+          "view": 88,
           "comment": 13,
           "mylist": 2,
           "like": 12
@@ -8750,7 +8750,7 @@
         "title": "Twilight Mute | ANRI Arcane（Synth V)【English Lyrics】",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 81,
+          "view": 82,
           "comment": 4,
           "mylist": 2,
           "like": 12
@@ -8780,7 +8780,7 @@
         "title": "《自作曲》　アンチ・クラチェイス  【初音ミク V6】",
         "registered_at": "2026-08-20T21:03:21+09:00",
         "counts": {
-          "view": 75,
+          "view": 76,
           "comment": 4,
           "mylist": 1,
           "like": 13
@@ -8870,7 +8870,7 @@
         "title": "【タコネコがきた。】",
         "registered_at": "2026-08-20T09:19:24+09:00",
         "counts": {
-          "view": 142,
+          "view": 143,
           "comment": 7,
           "mylist": 0,
           "like": 13
@@ -8885,7 +8885,7 @@
         "title": "ドラマチック・デスカ (Long Version) / さとうささら",
         "registered_at": "2026-08-20T23:30:00+09:00",
         "counts": {
-          "view": 53,
+          "view": 54,
           "comment": 8,
           "mylist": 1,
           "like": 12
@@ -8915,7 +8915,7 @@
         "title": "ヤキナオシ / 音街ウナSV",
         "registered_at": "2026-08-21T00:00:00+09:00",
         "counts": {
-          "view": 64,
+          "view": 65,
           "comment": 6,
           "mylist": 4,
           "like": 10
@@ -8975,7 +8975,7 @@
         "title": "【重音テトSV2】綺麗な星空",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 86,
+          "view": 87,
           "comment": 2,
           "mylist": 1,
           "like": 12
@@ -8990,7 +8990,7 @@
         "title": "破牢新世界 -Hello New World- / VOCALOID 22体",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 87,
+          "view": 89,
           "comment": 6,
           "mylist": 2,
           "like": 11
@@ -9035,7 +9035,7 @@
         "title": "夏のまぼろし　Summer whisper / 小春六花 Koharu Rikka",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 78,
+          "view": 79,
           "comment": 3,
           "mylist": 2,
           "like": 11
@@ -9065,7 +9065,7 @@
         "title": "田舎の雨(This rain in my countryside) feat.ANRI Arcane",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 88,
+          "view": 89,
           "comment": 1,
           "mylist": 2,
           "like": 11
@@ -9110,7 +9110,7 @@
         "title": "水眠 / The Night Shift feat.VY2V5",
         "registered_at": "2026-08-20T19:00:06+09:00",
         "counts": {
-          "view": 85,
+          "view": 86,
           "comment": 2,
           "mylist": 3,
           "like": 10
@@ -9140,7 +9140,7 @@
         "title": "カナデトモスソラ演奏してみた【大正琴】",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 88,
+          "view": 89,
           "comment": 2,
           "mylist": 1,
           "like": 12
@@ -9170,7 +9170,7 @@
         "title": "【ボカロセルフカバー】百万年の子守唄",
         "registered_at": "2026-08-20T19:16:05+09:00",
         "counts": {
-          "view": 82,
+          "view": 83,
           "comment": 5,
           "mylist": 3,
           "like": 10
@@ -9185,7 +9185,7 @@
         "title": "（cover）個々々々々々人（初音ミクv6&歌爱ユキv4）",
         "registered_at": "2026-08-20T19:31:52+09:00",
         "counts": {
-          "view": 78,
+          "view": 80,
           "comment": 0,
           "mylist": 2,
           "like": 11
@@ -9215,7 +9215,7 @@
         "title": "あつコタツ　feat.フリモメン",
         "registered_at": "2026-08-20T20:00:09+09:00",
         "counts": {
-          "view": 87,
+          "view": 88,
           "comment": 10,
           "mylist": 2,
           "like": 10
@@ -9245,7 +9245,7 @@
         "title": "dandelion / 重音テト",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 78,
+          "view": 80,
           "comment": 1,
           "mylist": 4,
           "like": 8
@@ -9260,7 +9260,7 @@
         "title": "#E1EFC2/ feat. 花隈千冬 & ナースロボ＿タイプＴ『ボカコレ2026夏』",
         "registered_at": "2026-08-21T00:00:46+09:00",
         "counts": {
-          "view": 69,
+          "view": 70,
           "comment": 1,
           "mylist": 4,
           "like": 8
@@ -9275,7 +9275,7 @@
         "title": "cotton candy　/　No.7",
         "registered_at": "2026-08-20T19:31:10+09:00",
         "counts": {
-          "view": 97,
+          "view": 99,
           "comment": 9,
           "mylist": 1,
           "like": 11
@@ -9290,7 +9290,7 @@
         "title": "レプリカ feat.鏡音リン＆レン",
         "registered_at": "2026-08-20T20:14:32+09:00",
         "counts": {
-          "view": 89,
+          "view": 90,
           "comment": 2,
           "mylist": 1,
           "like": 11
@@ -9305,7 +9305,7 @@
         "title": "恋の紙飛行機 / 花隈千冬",
         "registered_at": "2026-08-20T20:38:48+09:00",
         "counts": {
-          "view": 71,
+          "view": 72,
           "comment": 7,
           "mylist": 2,
           "like": 10
@@ -9320,7 +9320,7 @@
         "title": "さむでーないと(feat.宮舞モカ)",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 89,
+          "view": 90,
           "comment": 5,
           "mylist": 1,
           "like": 11
@@ -9335,7 +9335,7 @@
         "title": "涼やかに、見つけてよ/重音テトSV",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 78,
+          "view": 79,
           "comment": 3,
           "mylist": 1,
           "like": 11
@@ -9350,7 +9350,7 @@
         "title": "化け狸／TOHRO feat .初音ミク",
         "registered_at": "2026-08-20T19:39:52+09:00",
         "counts": {
-          "view": 74,
+          "view": 76,
           "comment": 4,
           "mylist": 2,
           "like": 10
@@ -9365,7 +9365,7 @@
         "title": "自由に（NEUTRINO SEVEN/No.7）",
         "registered_at": "2026-08-20T20:04:47+09:00",
         "counts": {
-          "view": 70,
+          "view": 71,
           "comment": 2,
           "mylist": 3,
           "like": 9
@@ -9425,7 +9425,7 @@
         "title": "ブラッドスキュラー / ボカコレ2026夏ex 参加曲",
         "registered_at": "2026-08-20T19:13:23+09:00",
         "counts": {
-          "view": 80,
+          "view": 81,
           "comment": 4,
           "mylist": 2,
           "like": 10
@@ -9440,7 +9440,7 @@
         "title": "【初音ミク】神が僕を×した【オリジナル曲】",
         "registered_at": "2026-08-20T19:00:08+09:00",
         "counts": {
-          "view": 79,
+          "view": 80,
           "comment": 1,
           "mylist": 2,
           "like": 10
@@ -9455,7 +9455,7 @@
         "title": "靴下の小指側のだま？みたいになっているところの当たり所がなんかこしょばくてじっとしていられない！",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 79,
+          "view": 80,
           "comment": 1,
           "mylist": 3,
           "like": 9
@@ -9470,7 +9470,7 @@
         "title": "【初音ミク】黎明の《魔法使い》【オリジナル曲】",
         "registered_at": "2026-08-20T19:07:13+09:00",
         "counts": {
-          "view": 87,
+          "view": 88,
           "comment": 0,
           "mylist": 2,
           "like": 10
@@ -9485,7 +9485,7 @@
         "title": "偶像崇拝 / isho feat. ナクモ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 82,
+          "view": 83,
           "comment": 0,
           "mylist": 4,
           "like": 9
@@ -9515,7 +9515,7 @@
         "title": "うみまで歩けば/夏色花梨",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 86,
+          "view": 87,
           "comment": 0,
           "mylist": 3,
           "like": 9
@@ -9575,7 +9575,7 @@
         "title": "【巡音ルカ】陽だまりカフェ【ボカコレ2026夏】",
         "registered_at": "2026-08-20T19:17:06+09:00",
         "counts": {
-          "view": 76,
+          "view": 77,
           "comment": 2,
           "mylist": 3,
           "like": 8
@@ -9590,7 +9590,7 @@
         "title": "やっぱりディスコ / 巡音ルカ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 71,
+          "view": 72,
           "comment": 1,
           "mylist": 3,
           "like": 9
@@ -9605,7 +9605,7 @@
         "title": "特別になれない私の恋歌 / Mai",
         "registered_at": "2026-08-20T20:37:04+09:00",
         "counts": {
-          "view": 72,
+          "view": 73,
           "comment": 6,
           "mylist": 2,
           "like": 9
@@ -9620,7 +9620,7 @@
         "title": "パチモン音頭 / 夏色花梨",
         "registered_at": "2026-08-20T21:40:19+09:00",
         "counts": {
-          "view": 76,
+          "view": 77,
           "comment": 4,
           "mylist": 1,
           "like": 10
@@ -9635,7 +9635,7 @@
         "title": "RETALIATION/ワックーfeat.宮舞モカ",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 77,
+          "view": 78,
           "comment": 1,
           "mylist": 2,
           "like": 9
@@ -9650,7 +9650,7 @@
         "title": "星の旅人/重音テト",
         "registered_at": "2026-08-20T19:00:21+09:00",
         "counts": {
-          "view": 81,
+          "view": 82,
           "comment": 3,
           "mylist": 2,
           "like": 9
@@ -9665,7 +9665,7 @@
         "title": "『パレット』 / 初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 68,
+          "view": 69,
           "comment": 5,
           "mylist": 1,
           "like": 10
@@ -9680,7 +9680,7 @@
         "title": "The World Without America - 初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 75,
+          "view": 76,
           "comment": 2,
           "mylist": 2,
           "like": 9
@@ -9695,7 +9695,7 @@
         "title": "UFOが来た",
         "registered_at": "2026-08-20T19:25:21+09:00",
         "counts": {
-          "view": 70,
+          "view": 71,
           "comment": 1,
           "mylist": 3,
           "like": 8
@@ -9710,7 +9710,7 @@
         "title": "虚空だったようで feat.巡音ルカ",
         "registered_at": "2026-08-20T19:01:08+09:00",
         "counts": {
-          "view": 85,
+          "view": 86,
           "comment": 0,
           "mylist": 2,
           "like": 9
@@ -9740,7 +9740,7 @@
         "title": "黄金塔 LIM-inal / 初音ミク",
         "registered_at": "2026-08-20T19:00:48+09:00",
         "counts": {
-          "view": 80,
+          "view": 81,
           "comment": 0,
           "mylist": 0,
           "like": 11
@@ -9755,7 +9755,7 @@
         "title": "からばこ",
         "registered_at": "2026-08-20T19:23:33+09:00",
         "counts": {
-          "view": 75,
+          "view": 76,
           "comment": 0,
           "mylist": 1,
           "like": 10
@@ -9770,7 +9770,7 @@
         "title": "【cover】い咒り/なきそ feat.メカスズカ",
         "registered_at": "2026-08-20T19:00:31+09:00",
         "counts": {
-          "view": 71,
+          "view": 72,
           "comment": 0,
           "mylist": 3,
           "like": 8
@@ -9785,7 +9785,7 @@
         "title": "百鬼夜行（怪）/「テト」&「IA」",
         "registered_at": "2026-08-21T00:00:06+09:00",
         "counts": {
-          "view": 52,
+          "view": 53,
           "comment": 8,
           "mylist": 2,
           "like": 8
@@ -9815,7 +9815,7 @@
         "title": "Human Nature/Fryingpan 【HXVOC】",
         "registered_at": "2026-08-20T21:00:27+09:00",
         "counts": {
-          "view": 74,
+          "view": 75,
           "comment": 2,
           "mylist": 2,
           "like": 8
@@ -9860,7 +9860,7 @@
         "title": "BLUE RESONANCE / KAITO V3 ENGLISH",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 88,
+          "view": 89,
           "comment": 1,
           "mylist": 1,
           "like": 9
@@ -9875,7 +9875,7 @@
         "title": "Ａ型の恋愛説明書/重音テト",
         "registered_at": "2026-08-20T20:01:54+09:00",
         "counts": {
-          "view": 66,
+          "view": 68,
           "comment": 6,
           "mylist": 1,
           "like": 9
@@ -9890,7 +9890,7 @@
         "title": "mess@ge / 初音ミク",
         "registered_at": "2026-08-20T23:04:36+09:00",
         "counts": {
-          "view": 111,
+          "view": 112,
           "comment": 6,
           "mylist": 1,
           "like": 9
@@ -9905,7 +9905,7 @@
         "title": "アクアの歌姫 - 重音テト",
         "registered_at": "2026-08-20T23:31:46+09:00",
         "counts": {
-          "view": 56,
+          "view": 57,
           "comment": 4,
           "mylist": 1,
           "like": 9
@@ -9920,7 +9920,7 @@
         "title": "いつかはカエル / 初音ミク",
         "registered_at": "2026-08-20T19:20:33+09:00",
         "counts": {
-          "view": 69,
+          "view": 70,
           "comment": 2,
           "mylist": 1,
           "like": 9
@@ -9935,7 +9935,7 @@
         "title": "【初音ミク】写し身とヘリオトロープ【オリジナル曲】",
         "registered_at": "2026-08-20T19:12:16+09:00",
         "counts": {
-          "view": 85,
+          "view": 86,
           "comment": 0,
           "mylist": 3,
           "like": 7
@@ -9950,7 +9950,7 @@
         "title": "筒の花束/初音ミク",
         "registered_at": "2026-08-20T19:00:57+09:00",
         "counts": {
-          "view": 66,
+          "view": 67,
           "comment": 0,
           "mylist": 3,
           "like": 7
@@ -9995,7 +9995,7 @@
         "title": "『照る照る」/ 初音ミク",
         "registered_at": "2026-08-20T19:16:36+09:00",
         "counts": {
-          "view": 89,
+          "view": 90,
           "comment": 2,
           "mylist": 1,
           "like": 8
@@ -10010,7 +10010,7 @@
         "title": "黄昏のラストシーン feat. 重音テト／MAMEZO",
         "registered_at": "2026-08-20T22:53:33+09:00",
         "counts": {
-          "view": 50,
+          "view": 51,
           "comment": 2,
           "mylist": 2,
           "like": 7
@@ -10040,7 +10040,7 @@
         "title": "風のささやき / 音街ウナ",
         "registered_at": "2026-08-20T19:40:59+09:00",
         "counts": {
-          "view": 87,
+          "view": 88,
           "comment": 2,
           "mylist": 3,
           "like": 6
@@ -10055,7 +10055,7 @@
         "title": "冒険者たち",
         "registered_at": "2026-08-20T20:37:41+09:00",
         "counts": {
-          "view": 70,
+          "view": 72,
           "comment": 3,
           "mylist": 1,
           "like": 8
@@ -10145,7 +10145,7 @@
         "title": "若者が見た景色。キミだけの景色。feat.初音ミク＆Fukase＆flower＆ＶＹ１＆asa",
         "registered_at": "2026-08-20T19:01:00+09:00",
         "counts": {
-          "view": 83,
+          "view": 84,
           "comment": 1,
           "mylist": 1,
           "like": 8
@@ -10205,7 +10205,7 @@
         "title": "スクロールザル",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 68,
+          "view": 69,
           "comment": 0,
           "mylist": 2,
           "like": 7
@@ -10250,7 +10250,7 @@
         "title": "生命したい / ずんだもん",
         "registered_at": "2026-08-21T02:21:14+09:00",
         "counts": {
-          "view": 39,
+          "view": 40,
           "comment": 3,
           "mylist": 2,
           "like": 6
@@ -10280,7 +10280,7 @@
         "title": "NDJ-3 #DJFes2026Summer -ネクトル【マッシュアップ】",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 65,
+          "view": 66,
           "comment": 4,
           "mylist": 1,
           "like": 7
@@ -10310,7 +10310,7 @@
         "title": "【アコギとエレキのロック】Milestone〜拍手喝采〜 feat.Jin",
         "registered_at": "2026-08-20T20:21:00+09:00",
         "counts": {
-          "view": 66,
+          "view": 67,
           "comment": 3,
           "mylist": 1,
           "like": 7
@@ -10370,7 +10370,7 @@
         "title": "セイカイ　feat.初音ミク　【みかんP】",
         "registered_at": "2026-08-20T19:16:34+09:00",
         "counts": {
-          "view": 78,
+          "view": 79,
           "comment": 1,
           "mylist": 1,
           "like": 7
@@ -10430,7 +10430,7 @@
         "title": "ミク・デジャヴ 〜未来既視感〜",
         "registered_at": "2026-08-20T19:34:54+09:00",
         "counts": {
-          "view": 75,
+          "view": 77,
           "comment": 0,
           "mylist": 2,
           "like": 6
@@ -10460,7 +10460,7 @@
         "title": "冬冬冬冬冬/健音テイ",
         "registered_at": "2026-08-20T19:07:50+09:00",
         "counts": {
-          "view": 77,
+          "view": 78,
           "comment": 0,
           "mylist": 1,
           "like": 7
@@ -10475,7 +10475,7 @@
         "title": "私のこと嫌いになって ♪初音ミク 【オリジナル】",
         "registered_at": "2026-08-20T19:02:42+09:00",
         "counts": {
-          "view": 81,
+          "view": 82,
           "comment": 0,
           "mylist": 2,
           "like": 6
@@ -10565,7 +10565,7 @@
         "title": "a",
         "registered_at": "2026-08-20T19:42:13+09:00",
         "counts": {
-          "view": 80,
+          "view": 82,
           "comment": 1,
           "mylist": 1,
           "like": 6
@@ -10610,7 +10610,7 @@
         "title": "【ボカコレ2026夏ex】ピティヴィエ / セルフカバー【夏の単独音祭り2026】",
         "registered_at": "2026-08-20T23:57:18+09:00",
         "counts": {
-          "view": 36,
+          "view": 38,
           "comment": 3,
           "mylist": 1,
           "like": 6
@@ -10640,7 +10640,7 @@
         "title": "碧ノホノ灯 — Estrella te guía —",
         "registered_at": "2026-08-20T19:22:21+09:00",
         "counts": {
-          "view": 79,
+          "view": 81,
           "comment": 2,
           "mylist": 2,
           "like": 5
@@ -10655,7 +10655,7 @@
         "title": "ルナティック・ロンリーデイ / ルナエリィ Vo.初音ミク",
         "registered_at": "2026-08-20T19:01:11+09:00",
         "counts": {
-          "view": 85,
+          "view": 86,
           "comment": 0,
           "mylist": 1,
           "like": 6
@@ -10670,7 +10670,7 @@
         "title": "森のミクさん / ぽちゃろふ feat. 初音ミク",
         "registered_at": "2026-08-20T19:00:00+09:00",
         "counts": {
-          "view": 72,
+          "view": 73,
           "comment": 0,
           "mylist": 1,
           "like": 6
@@ -10685,7 +10685,7 @@
         "title": "DJ風マッシュアップメドレー",
         "registered_at": "2026-08-20T19:00:48+09:00",
         "counts": {
-          "view": 85,
+          "view": 86,
           "comment": 0,
           "mylist": 1,
           "like": 6
@@ -10700,7 +10700,7 @@
         "title": "【AI共作】未完成オーバーラップ / AI Co-write Crew",
         "registered_at": "2026-08-20T19:01:35+09:00",
         "counts": {
-          "view": 65,
+          "view": 66,
           "comment": 0,
           "mylist": 2,
           "like": 5
@@ -10760,7 +10760,7 @@
         "title": "虎／初音ミク",
         "registered_at": "2026-08-20T19:45:40+09:00",
         "counts": {
-          "view": 70,
+          "view": 72,
           "comment": 0,
           "mylist": 1,
           "like": 5
@@ -10775,7 +10775,7 @@
         "title": "轍/初音ミク",
         "registered_at": "2026-08-20T19:43:20+09:00",
         "counts": {
-          "view": 61,
+          "view": 62,
           "comment": 0,
           "mylist": 2,
           "like": 4
@@ -10790,7 +10790,7 @@
         "title": "【ボカコレ2026夏ex】STRATEGIC INFATUATION ～二人の指先～【夏色花梨】",
         "registered_at": "2026-08-20T19:30:52+09:00",
         "counts": {
-          "view": 48,
+          "view": 49,
           "comment": 0,
           "mylist": 0,
           "like": 6
@@ -10820,7 +10820,7 @@
         "title": "メモリーズ1993（Remake2026） /　Ｓ.虚無　feat. 初音ミク",
         "registered_at": "2026-08-20T19:27:46+09:00",
         "counts": {
-          "view": 35,
+          "view": 36,
           "comment": 3,
           "mylist": 1,
           "like": 4
@@ -10865,7 +10865,7 @@
         "title": "D/N/A/初音ミクcover",
         "registered_at": "2026-08-20T23:13:28+09:00",
         "counts": {
-          "view": 64,
+          "view": 65,
           "comment": 1,
           "mylist": 0,
           "like": 5
@@ -10880,7 +10880,7 @@
         "title": "輪音イクト - ヴィアッジャレダソリ",
         "registered_at": "2026-08-14T22:19:36+09:00",
         "counts": {
-          "view": 167,
+          "view": 168,
           "comment": 2,
           "mylist": 1,
           "like": 14
@@ -10970,7 +10970,7 @@
         "title": "【GUMI】Nobuyoshi TANAKA: 予兆  Signs",
         "registered_at": "2026-08-20T19:41:29+09:00",
         "counts": {
-          "view": 56,
+          "view": 57,
           "comment": 0,
           "mylist": 1,
           "like": 4
@@ -11060,7 +11060,7 @@
         "title": "まだ/重音テト",
         "registered_at": "2026-08-20T19:40:31+09:00",
         "counts": {
-          "view": 51,
+          "view": 52,
           "comment": 1,
           "mylist": 1,
           "like": 3
@@ -11150,7 +11150,7 @@
         "title": "I LOVE スマート回胴♥ /  うた・初音ミク",
         "registered_at": "2026-08-21T00:39:03+09:00",
         "counts": {
-          "view": 76,
+          "view": 78,
           "comment": 2,
           "mylist": 0,
           "like": 3
@@ -11210,7 +11210,7 @@
         "title": "【めろう】奇跡のストリア【ボカコレ初参加】",
         "registered_at": "2026-08-21T01:46:27+09:00",
         "counts": {
-          "view": 31,
+          "view": 32,
           "comment": 1,
           "mylist": 0,
           "like": 2
@@ -11225,7 +11225,7 @@
         "title": "【MMD】ループザルーム / Looping the Rooms【GUMIcover】",
         "registered_at": "2026-08-08T21:23:52+09:00",
         "counts": {
-          "view": 162,
+          "view": 163,
           "comment": 4,
           "mylist": 5,
           "like": 12
@@ -11360,7 +11360,7 @@
         "title": "【UTAUカバー】ポジティブ・パレード【亜鈴】",
         "registered_at": "2026-08-21T03:00:00+09:00",
         "counts": {
-          "view": 16,
+          "view": 17,
           "comment": 0,
           "mylist": 0,
           "like": 1
@@ -11371,6 +11371,21 @@
       },
       {
         "rank": 755,
+        "watch_id": "sm46685702",
+        "title": "ネリネ / 初音ミク",
+        "registered_at": "2026-08-21T03:09:00+09:00",
+        "counts": {
+          "view": 8,
+          "comment": 0,
+          "mylist": 0,
+          "like": 1
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46685702/46685702.65252035",
+        "owner_name": "夕凪フジ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46685702"
+      },
+      {
+        "rank": 756,
         "watch_id": "sm46660360",
         "title": "【初歌ってみた】威風堂々【みあめる】",
         "registered_at": "2026-08-13T01:27:59+09:00",
@@ -11385,7 +11400,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46660360"
       },
       {
-        "rank": 756,
+        "rank": 757,
         "watch_id": "sm46356636",
         "title": "１１周年らしいから　放送してみる",
         "registered_at": "2026-06-01T01:00:00+09:00",
@@ -11400,7 +11415,22 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46356636"
       },
       {
-        "rank": 757,
+        "rank": 758,
+        "watch_id": "sm46697043",
+        "title": "1000015445",
+        "registered_at": "2026-08-21T03:27:34+09:00",
+        "counts": {
+          "view": 1,
+          "comment": 0,
+          "mylist": 0,
+          "like": 0
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46697043/46697043.34601577",
+        "owner_name": "厚寝巻",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46697043"
+      },
+      {
+        "rank": 759,
         "watch_id": "sm46696926",
         "title": "明後日の夢 / ぽすけ feat.初音ミク・flower",
         "registered_at": "2026-08-21T03:00:04+09:00",
@@ -11415,7 +11445,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46696926"
       },
       {
-        "rank": 758,
+        "rank": 760,
         "watch_id": "sm46696922",
         "title": "Cross this line / Mai (SynthV オリジナル MV)",
         "registered_at": "2026-08-21T02:54:36+09:00",
@@ -11430,7 +11460,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46696922"
       },
       {
-        "rank": 759,
+        "rank": 761,
         "watch_id": "sm46696908",
         "title": "yk-1-4-2-gg!",
         "registered_at": "2026-08-21T02:40:29+09:00",
@@ -11445,7 +11475,7 @@
         "nico_url": "https://www.nicovideo.jp/watch/sm46696908"
       },
       {
-        "rank": 760,
+        "rank": 762,
         "watch_id": "sm46696467",
         "title": "HARENOTCHI feat. 宮舞モカ 【ボカコレ2026夏ex】",
         "registered_at": "2026-08-21T01:18:53+09:00",
@@ -11458,21 +11488,6 @@
         "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46696467/46696467.94605608",
         "owner_name": "いっそ〜",
         "nico_url": "https://www.nicovideo.jp/watch/sm46696467"
-      },
-      {
-        "rank": 761,
-        "watch_id": "sm46685702",
-        "title": "ネリネ / 初音ミク",
-        "registered_at": "2026-08-21T03:09:00+09:00",
-        "counts": {
-          "view": 7,
-          "comment": 0,
-          "mylist": 0,
-          "like": 0
-        },
-        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46685702/46685702.65252035",
-        "owner_name": "夕凪フジ",
-        "nico_url": "https://www.nicovideo.jp/watch/sm46685702"
       }
     ]
   }

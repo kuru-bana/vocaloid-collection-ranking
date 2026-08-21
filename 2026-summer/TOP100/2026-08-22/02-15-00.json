@@ -1,0 +1,1525 @@
+{
+  "source": "https://vocaloid-collection.jp",
+  "collected_at": "2026-08-22T02:15:00.000179+09:00",
+  "season": "2026-summer",
+  "ranking": {
+    "label": "TOP100",
+    "status": "active",
+    "period": {
+      "start": "2026-08-22T00:00:00+09:00",
+      "end": "2026-08-24T17:00:00+09:00"
+    },
+    "source_url": "https://vocaloid-collection.jp/ranking/top100/",
+    "ranking_id": 329892,
+    "item_source": "official_page_live_api",
+    "fallback_reason": null,
+    "tag": "ボカコレ2026夏TOP100ランキング参加曲",
+    "tag_url": "https://www.nicovideo.jp/tag/%E3%83%9C%E3%82%AB%E3%82%B3%E3%83%AC2026%E5%A4%8FTOP100%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%E5%8F%82%E5%8A%A0%E6%9B%B2",
+    "count": 100,
+    "total_count": 100,
+    "has_next": false,
+    "embedded_item_count": 100,
+    "items": [
+      {
+        "rank": 1,
+        "watch_id": "sm46620250",
+        "title": "初音ミク『恋』",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 6218,
+          "comment": 744,
+          "mylist": 461,
+          "like": 1168
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46620250/46620250.66998436",
+        "owner_name": "Sohbana",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46620250"
+      },
+      {
+        "rank": 2,
+        "watch_id": "sm46702724",
+        "title": "東京真中 - フォーモ feat. 重音テト",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 6434,
+          "comment": 1042,
+          "mylist": 447,
+          "like": 1191
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46702724/46702724.34576006",
+        "owner_name": "東京真中",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46702724"
+      },
+      {
+        "rank": 3,
+        "watch_id": "sm46695967",
+        "title": "音楽はつづく feat. 初音ミク・鏡音リン・鏡音レン・巡音ルカ・MEIKO・KAITO",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 2804,
+          "comment": 555,
+          "mylist": 300,
+          "like": 725
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46695967/46695967.44815816",
+        "owner_name": "OSTER project",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46695967"
+      },
+      {
+        "rank": 4,
+        "watch_id": "sm46700619",
+        "title": "されど空転 / 重音テトSV - ぬゆり",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 2763,
+          "comment": 446,
+          "mylist": 239,
+          "like": 537
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46700619/46700619.27002191",
+        "owner_name": "ぬゆり",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46700619"
+      },
+      {
+        "rank": 5,
+        "watch_id": "sm46696587",
+        "title": "溺死して死ね - ついなちゃん",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 2923,
+          "comment": 550,
+          "mylist": 313,
+          "like": 756
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46696587/46696587.97340827",
+        "owner_name": "いのうつはSA",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46696587"
+      },
+      {
+        "rank": 6,
+        "watch_id": "sm46702609",
+        "title": "最高のMVの作りかた / 初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 1314,
+          "comment": 185,
+          "mylist": 200,
+          "like": 426
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46702609/46702609.13440194",
+        "owner_name": "阿修",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46702609"
+      },
+      {
+        "rank": 7,
+        "watch_id": "sm46702664",
+        "title": "染色体に魔法 / ひらぎ feat.初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 2173,
+          "comment": 147,
+          "mylist": 287,
+          "like": 606
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46702664/46702664.79026372",
+        "owner_name": "ひらぎ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46702664"
+      },
+      {
+        "rank": 8,
+        "watch_id": "sm46694295",
+        "title": "ぐぬぬ / 重音テト",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 2047,
+          "comment": 208,
+          "mylist": 201,
+          "like": 480
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46694295/46694295.83466313",
+        "owner_name": "読谷あかね",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46694295"
+      },
+      {
+        "rank": 9,
+        "watch_id": "sm46688797",
+        "title": "作劇の都合 / 初音ミク・重音テト",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 1584,
+          "comment": 107,
+          "mylist": 192,
+          "like": 405
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46688797/46688797.5867445",
+        "owner_name": "サツキ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46688797"
+      },
+      {
+        "rank": 10,
+        "watch_id": "sm46691036",
+        "title": "ツァイトガイスト / 星尘Infinity",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 1534,
+          "comment": 257,
+          "mylist": 225,
+          "like": 426
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46691036/46691036.34128256",
+        "owner_name": "奏(kanade)",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46691036"
+      },
+      {
+        "rank": 11,
+        "watch_id": "sm46700544",
+        "title": "夏山よつぎ × ど～ぱみん -「世界最後の音楽隊」feat.初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 2338,
+          "comment": 269,
+          "mylist": 267,
+          "like": 537
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46700544/46700544.22706672",
+        "owner_name": "ど～ぱみん",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46700544"
+      },
+      {
+        "rank": 12,
+        "watch_id": "sm46680421",
+        "title": "スマイル / 初音ミク・重音テト",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 3778,
+          "comment": 826,
+          "mylist": 209,
+          "like": 648
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46680421/46680421.27162027",
+        "owner_name": "大漠波新",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46680421"
+      },
+      {
+        "rank": 13,
+        "watch_id": "sm46703461",
+        "title": "MxxA診断 / ナースロボ＿タイプＴ",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 1141,
+          "comment": 523,
+          "mylist": 117,
+          "like": 299
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703461/46703461.49276164",
+        "owner_name": "安見すや",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703461"
+      },
+      {
+        "rank": 14,
+        "watch_id": "sm46693741",
+        "title": "カ　ベ　ド　ン　！　（　絶　望　）",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 2639,
+          "comment": 730,
+          "mylist": 98,
+          "like": 545
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46693741/46693741.61682493",
+        "owner_name": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46693741"
+      },
+      {
+        "rank": 15,
+        "watch_id": "sm46695290",
+        "title": "ひろがるフェイバリット / 重音テトSV・UTAU",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 1200,
+          "comment": 226,
+          "mylist": 79,
+          "like": 310
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46695290/46695290.56971102",
+        "owner_name": "ンバヂ(nbaji)",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46695290"
+      },
+      {
+        "rank": 16,
+        "watch_id": "sm46703800",
+        "title": "個性して。 / 初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 1118,
+          "comment": 98,
+          "mylist": 149,
+          "like": 321
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703800/46703800.64659761",
+        "owner_name": "Itaby",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703800"
+      },
+      {
+        "rank": 17,
+        "watch_id": "sm46605371",
+        "title": "人間ですが。/ 初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 751,
+          "comment": 71,
+          "mylist": 125,
+          "like": 221
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46605371/46605371.14877062",
+        "owner_name": "Ruliea",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46605371"
+      },
+      {
+        "rank": 18,
+        "watch_id": "sm46701962",
+        "title": "琴葉姉妹『手品』",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 951,
+          "comment": 99,
+          "mylist": 88,
+          "like": 239
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46701962/46701962.32440984",
+        "owner_name": "くりたにか",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46701962"
+      },
+      {
+        "rank": 19,
+        "watch_id": "sm46703572",
+        "title": "______________オ / マキシウキョウ feat.重音テトSV",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 809,
+          "comment": 207,
+          "mylist": 86,
+          "like": 244
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703572/46703572.89320972",
+        "owner_name": "マキシウキョウ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703572"
+      },
+      {
+        "rank": 20,
+        "watch_id": "sm46682482",
+        "title": "魔法少女のギフト / 重音テト&知声",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 473,
+          "comment": 72,
+          "mylist": 91,
+          "like": 147
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46682482/46682482.24737772",
+        "owner_name": "柏木カレキ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46682482"
+      },
+      {
+        "rank": 21,
+        "watch_id": "sm46701228",
+        "title": "KAIRUI & 原口沙輔 - 百々(feat.初音ミク)",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 857,
+          "comment": 26,
+          "mylist": 104,
+          "like": 196
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46701228/46701228.45418291",
+        "owner_name": "KAIRUI",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46701228"
+      },
+      {
+        "rank": 22,
+        "watch_id": "sm46702259",
+        "title": "流徒 Beruf / Gyr0 feat.重音テト",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 239,
+          "comment": 31,
+          "mylist": 62,
+          "like": 80
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46702259/46702259.44849787",
+        "owner_name": "Gyr0",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46702259"
+      },
+      {
+        "rank": 23,
+        "watch_id": "sm46693326",
+        "title": "エリンジウム / 香椎モイミ feat. 初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 677,
+          "comment": 34,
+          "mylist": 97,
+          "like": 167
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46693326/46693326.33102792",
+        "owner_name": "香椎モイミ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46693326"
+      },
+      {
+        "rank": 24,
+        "watch_id": "sm46591763",
+        "title": "知らんがな！ / 初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 353,
+          "comment": 27,
+          "mylist": 83,
+          "like": 109
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46591763/46591763.64607219",
+        "owner_name": "TakoyakiKZY",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46591763"
+      },
+      {
+        "rank": 25,
+        "watch_id": "sm46702596",
+        "title": "Shu - ヰドヱスト ft 初音ミク&巡音ルカ",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 1026,
+          "comment": 89,
+          "mylist": 104,
+          "like": 174
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46702596/46702596.12705237",
+        "owner_name": "Shu",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46702596"
+      },
+      {
+        "rank": 26,
+        "watch_id": "sm46699241",
+        "title": "未上映/初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 286,
+          "comment": 173,
+          "mylist": 61,
+          "like": 100
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46699241/46699241.56643425",
+        "owner_name": "mahito",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46699241"
+      },
+      {
+        "rank": 27,
+        "watch_id": "sm46697381",
+        "title": "バーンアウト / 初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 750,
+          "comment": 68,
+          "mylist": 73,
+          "like": 181
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46697381/46697381.4635530",
+        "owner_name": "カササギ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46697381"
+      },
+      {
+        "rank": 28,
+        "watch_id": "sm46583032",
+        "title": "オールドフィクション / 蒼二才 feat.ナースロボ__タイプT",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 368,
+          "comment": 80,
+          "mylist": 57,
+          "like": 132
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46583032/46583032.577175",
+        "owner_name": "蒼二才",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46583032"
+      },
+      {
+        "rank": 29,
+        "watch_id": "sm46703352",
+        "title": "Sound／初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 688,
+          "comment": 92,
+          "mylist": 93,
+          "like": 190
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703352/46703352.49812227",
+        "owner_name": "なちぴ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703352"
+      },
+      {
+        "rank": 30,
+        "watch_id": "sm46598978",
+        "title": "ボイジャー/初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 255,
+          "comment": 37,
+          "mylist": 73,
+          "like": 76
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46598978/46598978.72788648",
+        "owner_name": "鬱桑型",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46598978"
+      },
+      {
+        "rank": 31,
+        "watch_id": "sm46703925",
+        "title": "ピュアー / 初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 358,
+          "comment": 47,
+          "mylist": 62,
+          "like": 114
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703925/46703925.37358935",
+        "owner_name": "Saku",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703925"
+      },
+      {
+        "rank": 32,
+        "watch_id": "sm46697414",
+        "title": "夏雲観測記録/初音ミク、泳愚もぐ",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 483,
+          "comment": 138,
+          "mylist": 83,
+          "like": 169
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46697414/46697414.61469966",
+        "owner_name": "まかろり",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46697414"
+      },
+      {
+        "rank": 33,
+        "watch_id": "sm46651576",
+        "title": "夏に溶ける / 鏡音リンNT - ごめんなさいが言えなくて",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 409,
+          "comment": 29,
+          "mylist": 62,
+          "like": 126
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46651576/46651576.7347940",
+        "owner_name": "ごめんなさいが言えなくて",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46651576"
+      },
+      {
+        "rank": 34,
+        "watch_id": "sm46703513",
+        "title": "ワールドワイドベンチレーション／初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 617,
+          "comment": 54,
+          "mylist": 110,
+          "like": 182
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703513/46703513.1220261",
+        "owner_name": "yowanecity",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703513"
+      },
+      {
+        "rank": 35,
+        "watch_id": "sm46702111",
+        "title": "断片の彫刻 - ナクモ＆めろう",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 264,
+          "comment": 14,
+          "mylist": 59,
+          "like": 84
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46702111/46702111.20047197",
+        "owner_name": "世界電力",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46702111"
+      },
+      {
+        "rank": 36,
+        "watch_id": "sm46699683",
+        "title": "不♡快感 / nyanyannya feat.重音テトSV",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 1060,
+          "comment": 467,
+          "mylist": 77,
+          "like": 130
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46699683/46699683.51966159",
+        "owner_name": "nyanyannya（大天才P）",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46699683"
+      },
+      {
+        "rank": 37,
+        "watch_id": "sm46689336",
+        "title": "aソぼっ！ / 音街ウナSV - アオワイファイ",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 272,
+          "comment": 27,
+          "mylist": 50,
+          "like": 73
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46689336/46689336.53876668",
+        "owner_name": "アオワイファイ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46689336"
+      },
+      {
+        "rank": 38,
+        "watch_id": "sm46579471",
+        "title": "どくどくひりひり / ついなちゃん",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 414,
+          "comment": 264,
+          "mylist": 61,
+          "like": 111
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46579471/46579471.65748239",
+        "owner_name": "陽澄リョウ/Hizumi Ryo",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46579471"
+      },
+      {
+        "rank": 39,
+        "watch_id": "sm46661564",
+        "title": "かたすみのしらべ / 歩く人 feat. 初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 267,
+          "comment": 41,
+          "mylist": 55,
+          "like": 82
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46661564/46661564.60545643",
+        "owner_name": "歩く人",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46661564"
+      },
+      {
+        "rank": 40,
+        "watch_id": "sm46703591",
+        "title": "ナンセンス・リーピング / 初音ミク、鏡音リン、鏡音レン、巡音ルカ、KAITO、MEIKO",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 448,
+          "comment": 56,
+          "mylist": 80,
+          "like": 129
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703591/46703591.55103660",
+        "owner_name": "加賀(ネギシャワーP)",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703591"
+      },
+      {
+        "rank": 41,
+        "watch_id": "sm46693586",
+        "title": "イスカリオテの晩餐.log / 初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 414,
+          "comment": 51,
+          "mylist": 76,
+          "like": 130
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46693586/46693586.53979300",
+        "owner_name": "春浅葱",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46693586"
+      },
+      {
+        "rank": 42,
+        "watch_id": "sm46702917",
+        "title": "プリズム / 初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 315,
+          "comment": 27,
+          "mylist": 67,
+          "like": 90
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46702917/46702917.80344136",
+        "owner_name": "ヨハク",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46702917"
+      },
+      {
+        "rank": 43,
+        "watch_id": "sm46693758",
+        "title": "世界責思考 / 双葉湊音",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 410,
+          "comment": 52,
+          "mylist": 56,
+          "like": 103
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46693758/46693758.53126237",
+        "owner_name": "霧四面体",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46693758"
+      },
+      {
+        "rank": 44,
+        "watch_id": "sm46696893",
+        "title": "アルタイルにて / 初音ミク + ナースロボ_タイプT + Wa!ter",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 333,
+          "comment": 44,
+          "mylist": 60,
+          "like": 112
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46696893/46696893.44694710",
+        "owner_name": "Wa!ter",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46696893"
+      },
+      {
+        "rank": 45,
+        "watch_id": "sm46703456",
+        "title": "旧天地/知声",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 452,
+          "comment": 79,
+          "mylist": 79,
+          "like": 137
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703456/46703456.38481039",
+        "owner_name": "あだちかすか",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703456"
+      },
+      {
+        "rank": 46,
+        "watch_id": "sm46703252",
+        "title": "ひみつのガーデン - クワガタP feat. 初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 474,
+          "comment": 83,
+          "mylist": 58,
+          "like": 121
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703252/46703252.91441759",
+        "owner_name": "クワガタP | apple41",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703252"
+      },
+      {
+        "rank": 47,
+        "watch_id": "sm46580261",
+        "title": "シークレット/ペクちんfeat.初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 430,
+          "comment": 99,
+          "mylist": 36,
+          "like": 94
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46580261/46580261.95238807",
+        "owner_name": "ペクちん",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46580261"
+      },
+      {
+        "rank": 48,
+        "watch_id": "sm46579817",
+        "title": "これが夢だと気づいてた / Amunik AK feat. 夏色花梨・小春六花・花隈千冬",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 309,
+          "comment": 167,
+          "mylist": 43,
+          "like": 100
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46579817/46579817.21239471",
+        "owner_name": "Amunik AK",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46579817"
+      },
+      {
+        "rank": 49,
+        "watch_id": "sm46609226",
+        "title": "流星アステリズム / 重音テト",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 316,
+          "comment": 66,
+          "mylist": 74,
+          "like": 113
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46609226/46609226.77760005",
+        "owner_name": "takaken",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46609226"
+      },
+      {
+        "rank": 50,
+        "watch_id": "sm46673898",
+        "title": "透明だったあの夏へ、/ 初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 293,
+          "comment": 39,
+          "mylist": 60,
+          "like": 83
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46673898/46673898.27212942",
+        "owner_name": "めェ子",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46673898"
+      },
+      {
+        "rank": 51,
+        "watch_id": "sm46586193",
+        "title": "キャンサーセル / 初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 588,
+          "comment": 55,
+          "mylist": 95,
+          "like": 145
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46586193/46586193.19635005",
+        "owner_name": "しゃいと",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46586193"
+      },
+      {
+        "rank": 52,
+        "watch_id": "sm46700317",
+        "title": "MANIC!! / 歌愛ユキ",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 360,
+          "comment": 83,
+          "mylist": 71,
+          "like": 94
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46700317/46700317.35223360",
+        "owner_name": "maigo",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46700317"
+      },
+      {
+        "rank": 53,
+        "watch_id": "sm46682789",
+        "title": "オーバークロック！ / ft. 重音テトSV2",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 196,
+          "comment": 80,
+          "mylist": 34,
+          "like": 73
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46682789/46682789.13483299",
+        "owner_name": "しのはら （ 詩乃原しの ）",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46682789"
+      },
+      {
+        "rank": 54,
+        "watch_id": "sm46686230",
+        "title": "スパイス・カルテル / 初音ミク, 鏡音レン, 鏡音リン, 巡音ルカ, MEIKO, KAITO",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 264,
+          "comment": 25,
+          "mylist": 50,
+          "like": 84
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46686230/46686230.15601277",
+        "owner_name": "前線 / zensen",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46686230"
+      },
+      {
+        "rank": 55,
+        "watch_id": "sm46581395",
+        "title": "ウナされている！/つる feat.音街ウナ",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 235,
+          "comment": 80,
+          "mylist": 52,
+          "like": 72
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46581395/46581395.47873951",
+        "owner_name": "つる",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46581395"
+      },
+      {
+        "rank": 56,
+        "watch_id": "sm46696569",
+        "title": "かつて世界だった物たちへ。 - 可不",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 273,
+          "comment": 14,
+          "mylist": 47,
+          "like": 70
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46696569/46696569.25809342",
+        "owner_name": "芥田レンリ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46696569"
+      },
+      {
+        "rank": 57,
+        "watch_id": "sm46703499",
+        "title": "(Don’t) Forget/初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 296,
+          "comment": 43,
+          "mylist": 65,
+          "like": 104
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703499/46703499.63792682",
+        "owner_name": "ほいっぷ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703499"
+      },
+      {
+        "rank": 58,
+        "watch_id": "sm46629043",
+        "title": "すくう天使 / 豆カカオ feat.初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 449,
+          "comment": 65,
+          "mylist": 83,
+          "like": 144
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46629043/46629043.64316458",
+        "owner_name": "豆カカオ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46629043"
+      },
+      {
+        "rank": 59,
+        "watch_id": "sm46693547",
+        "title": "phone call(+1) / 初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 193,
+          "comment": 21,
+          "mylist": 46,
+          "like": 60
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46693547/46693547.63595799",
+        "owner_name": "桶屋-Okeya",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46693547"
+      },
+      {
+        "rank": 60,
+        "watch_id": "sm46702965",
+        "title": "お散歩クラブへようこそ！ / 巡音ルカ",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 237,
+          "comment": 28,
+          "mylist": 40,
+          "like": 58
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46702965/46702965.75042534",
+        "owner_name": "タケノコ少年",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46702965"
+      },
+      {
+        "rank": 61,
+        "watch_id": "sm46579436",
+        "title": "カラーコンステレーション feat. ついなちゃん/ナースロボ_タイプT",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 139,
+          "comment": 108,
+          "mylist": 34,
+          "like": 52
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46579436/46579436.86955202",
+        "owner_name": "enjoyeer",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46579436"
+      },
+      {
+        "rank": 62,
+        "watch_id": "sm46696967",
+        "title": "脱法算法 / 雨衣・初音ミク - カイネ",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 298,
+          "comment": 23,
+          "mylist": 49,
+          "like": 87
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46696967/46696967.8567313",
+        "owner_name": "カイネ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46696967"
+      },
+      {
+        "rank": 63,
+        "watch_id": "sm46703881",
+        "title": "アビサルイデア / 一筆かもめ feat. 音街ウナ",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 388,
+          "comment": 96,
+          "mylist": 68,
+          "like": 118
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703881/46703881.50371376",
+        "owner_name": "一筆かもめ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703881"
+      },
+      {
+        "rank": 64,
+        "watch_id": "sm46703468",
+        "title": "ジサツクラブ / ヒロモト ヒライシン feat.歌愛ユキ、ナースロボ＿タイプＴ",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 216,
+          "comment": 54,
+          "mylist": 59,
+          "like": 71
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703468/46703468.5486848",
+        "owner_name": "ヒロモト ヒライシン",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703468"
+      },
+      {
+        "rank": 65,
+        "watch_id": "sm46698978",
+        "title": "レヴィン / 東北きりたん",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 411,
+          "comment": 28,
+          "mylist": 51,
+          "like": 80
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46698978/46698978.87062679",
+        "owner_name": "南ノ南@せかせかP",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46698978"
+      },
+      {
+        "rank": 66,
+        "watch_id": "sm46694129",
+        "title": "タイカの人/知声",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 168,
+          "comment": 18,
+          "mylist": 24,
+          "like": 50
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46694129/46694129.56759972",
+        "owner_name": "MONOTONE",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46694129"
+      },
+      {
+        "rank": 67,
+        "watch_id": "sm46579435",
+        "title": "地獄列車閻魔逝キ / KAITO - すこやか大聖堂【ボカコレ2026夏】",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 461,
+          "comment": 53,
+          "mylist": 61,
+          "like": 133
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46579435/46579435.41617646",
+        "owner_name": "すこやか大聖堂",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46579435"
+      },
+      {
+        "rank": 68,
+        "watch_id": "sm46703589",
+        "title": "自由研究 / 初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 306,
+          "comment": 74,
+          "mylist": 50,
+          "like": 77
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703589/46703589.98883492",
+        "owner_name": "内緒の秘密",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703589"
+      },
+      {
+        "rank": 69,
+        "watch_id": "sm46691665",
+        "title": "ハイドロエンドロール / 初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 224,
+          "comment": 33,
+          "mylist": 46,
+          "like": 58
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46691665/46691665.12839353",
+        "owner_name": "ノイ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46691665"
+      },
+      {
+        "rank": 70,
+        "watch_id": "sm46703233",
+        "title": "デイドリームタウン / 夜丹れにや feat. ついなちゃん",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 193,
+          "comment": 24,
+          "mylist": 42,
+          "like": 60
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703233/46703233.70272264",
+        "owner_name": "夜丹れにや",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703233"
+      },
+      {
+        "rank": 71,
+        "watch_id": "sm46698984",
+        "title": "JIDAI feat.初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 271,
+          "comment": 46,
+          "mylist": 47,
+          "like": 67
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46698984/46698984.12051012",
+        "owner_name": "イマニシ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46698984"
+      },
+      {
+        "rank": 72,
+        "watch_id": "sm46698739",
+        "title": "足らない努力 / ルウル（真島ゆろ）",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 275,
+          "comment": 42,
+          "mylist": 58,
+          "like": 96
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46698739/46698739.35525943",
+        "owner_name": "真島ゆろ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46698739"
+      },
+      {
+        "rank": 73,
+        "watch_id": "sm46692661",
+        "title": "不快な愉快犯 / 初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 177,
+          "comment": 23,
+          "mylist": 45,
+          "like": 58
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46692661/46692661.11278244",
+        "owner_name": "木瀬のん / Kisenon",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46692661"
+      },
+      {
+        "rank": 74,
+        "watch_id": "sm46703934",
+        "title": "サーチアンドサーチ / 音街ウナとジヲ",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 145,
+          "comment": 20,
+          "mylist": 26,
+          "like": 50
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703934/46703934.28163462",
+        "owner_name": "ジヲ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703934"
+      },
+      {
+        "rank": 75,
+        "watch_id": "sm46696837",
+        "title": "亡国のデリリウム / KAITO V1 - 惑井",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 346,
+          "comment": 45,
+          "mylist": 50,
+          "like": 95
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46696837/46696837.78952387",
+        "owner_name": "惑井",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46696837"
+      },
+      {
+        "rank": 76,
+        "watch_id": "sm46702583",
+        "title": "思い出の中にいるみたいなのだ feat. ずんだもん",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 185,
+          "comment": 19,
+          "mylist": 39,
+          "like": 55
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46702583/46702583.70386942",
+        "owner_name": "コサメガ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46702583"
+      },
+      {
+        "rank": 77,
+        "watch_id": "sm46704034",
+        "title": "なぜか俺が買った時だけルメールが来ない【宮舞モカ】",
+        "registered_at": "2026-08-22T00:14:34+09:00",
+        "counts": {
+          "view": 319,
+          "comment": 61,
+          "mylist": 7,
+          "like": 57
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46704034/46704034.74062091",
+        "owner_name": "もかちゃんさん",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46704034"
+      },
+      {
+        "rank": 78,
+        "watch_id": "sm46697193",
+        "title": "ハローワールド / お柴鉱脈",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 155,
+          "comment": 17,
+          "mylist": 31,
+          "like": 49
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46697193/46697193.11400359",
+        "owner_name": "お柴鉱脈",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46697193"
+      },
+      {
+        "rank": 79,
+        "watch_id": "sm46687805",
+        "title": "GOD SPEED / 呆feat.初音ミク,嘯",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 262,
+          "comment": 29,
+          "mylist": 37,
+          "like": 63
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46687805/46687805.61366498",
+        "owner_name": "呆 Akire",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46687805"
+      },
+      {
+        "rank": 80,
+        "watch_id": "sm46702655",
+        "title": "(A)RECOLOR. / ナースロボ＿タイプT,YiXi",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 225,
+          "comment": 33,
+          "mylist": 46,
+          "like": 80
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46702655/46702655.2453303",
+        "owner_name": "漣音",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46702655"
+      },
+      {
+        "rank": 81,
+        "watch_id": "sm46697815",
+        "title": "いちごアイス/鏡音リン・足立レイ",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 229,
+          "comment": 44,
+          "mylist": 28,
+          "like": 66
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46697815/46697815.17267752",
+        "owner_name": "uotak",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46697815"
+      },
+      {
+        "rank": 82,
+        "watch_id": "sm46702087",
+        "title": "デビルズ・デッドビーツ/YiXi",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 269,
+          "comment": 26,
+          "mylist": 46,
+          "like": 84
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46702087/46702087.12224345",
+        "owner_name": "椿.",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46702087"
+      },
+      {
+        "rank": 83,
+        "watch_id": "sm46580170",
+        "title": "ブラックホールグラビティ / ミキヲト feat.重音テト",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 295,
+          "comment": 202,
+          "mylist": 34,
+          "like": 71
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46580170/46580170.11595886",
+        "owner_name": "ミキヲト",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46580170"
+      },
+      {
+        "rank": 84,
+        "watch_id": "sm46697677",
+        "title": "テーブルクロス引き　2日目",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 146,
+          "comment": 31,
+          "mylist": 17,
+          "like": 58
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46697677/46697677.48321437",
+        "owner_name": "セリフ@サバ威張るP",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46697677"
+      },
+      {
+        "rank": 85,
+        "watch_id": "sm46667100",
+        "title": "ライトメア / kr-KuuRa feat. 初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 230,
+          "comment": 57,
+          "mylist": 41,
+          "like": 72
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46667100/46667100.2095640",
+        "owner_name": "kr-KuuRa",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46667100"
+      },
+      {
+        "rank": 86,
+        "watch_id": "sm46698545",
+        "title": "Objection / 初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 160,
+          "comment": 18,
+          "mylist": 31,
+          "like": 55
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46698545/46698545.97165323",
+        "owner_name": "SHOE",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46698545"
+      },
+      {
+        "rank": 87,
+        "watch_id": "sm46703002",
+        "title": "さよならディスコ / 初音ミク, 鳴花ヒメ",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 191,
+          "comment": 19,
+          "mylist": 38,
+          "like": 60
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703002/46703002.69506220",
+        "owner_name": "みずな",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703002"
+      },
+      {
+        "rank": 88,
+        "watch_id": "sm46699026",
+        "title": "黄昏革命 ／ 重音テトSV",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 406,
+          "comment": 63,
+          "mylist": 79,
+          "like": 114
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46699026/46699026.13799304",
+        "owner_name": "雨の介",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46699026"
+      },
+      {
+        "rank": 89,
+        "watch_id": "sm46702496",
+        "title": "あたたかな音が指し示す方へ。 / muyu feat. ナースロボ＿タイプＴ",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 162,
+          "comment": 5,
+          "mylist": 27,
+          "like": 36
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46702496/46702496.3393802",
+        "owner_name": "muyu",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46702496"
+      },
+      {
+        "rank": 90,
+        "watch_id": "sm46579415",
+        "title": "リリジャム／シトハイ feat.宮舞モカ&弦巻マキ",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 157,
+          "comment": 128,
+          "mylist": 20,
+          "like": 51
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46579415/46579415.10650112",
+        "owner_name": "シトハイ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46579415"
+      },
+      {
+        "rank": 91,
+        "watch_id": "sm46579422",
+        "title": "null大陸紀行 / dama feat.めろう,知声,ナクモ",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 217,
+          "comment": 98,
+          "mylist": 36,
+          "like": 73
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46579422/46579422.8997574",
+        "owner_name": "dama",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46579422"
+      },
+      {
+        "rank": 92,
+        "watch_id": "sm46699695",
+        "title": "七不思議 / 花隈千冬 - 青屋夏生",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 215,
+          "comment": 23,
+          "mylist": 38,
+          "like": 50
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46699695/46699695.10488982",
+        "owner_name": "青屋夏生(ｱｵﾔﾅﾂｷ)",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46699695"
+      },
+      {
+        "rank": 93,
+        "watch_id": "sm46676149",
+        "title": "パン屋のトングカチカチ / 音街ウナ, 重音テト - シカクドット",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 155,
+          "comment": 19,
+          "mylist": 29,
+          "like": 54
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46676149/46676149.55699535",
+        "owner_name": "シカクドット",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46676149"
+      },
+      {
+        "rank": 94,
+        "watch_id": "sm46681089",
+        "title": "ヘヴンリアクタ / 初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 130,
+          "comment": 26,
+          "mylist": 28,
+          "like": 50
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46681089/46681089.72876228",
+        "owner_name": "だら",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46681089"
+      },
+      {
+        "rank": 95,
+        "watch_id": "sm46698912",
+        "title": "あかいろのふうせん / 鏡音リン[EO(エオ)]",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 127,
+          "comment": 14,
+          "mylist": 28,
+          "like": 35
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46698912/46698912.45219602",
+        "owner_name": "EO(エオ)",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46698912"
+      },
+      {
+        "rank": 96,
+        "watch_id": "sm46703815",
+        "title": "チ〇ンラーメンの特別な食べ方 / カッシー feat. 可不",
+        "registered_at": "2026-08-22T01:00:00+09:00",
+        "counts": {
+          "view": 50,
+          "comment": 91,
+          "mylist": 7,
+          "like": 21
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703815/46703815.87130737",
+        "owner_name": "カッシー / 歌い手系ボカロP",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703815"
+      },
+      {
+        "rank": 97,
+        "watch_id": "sm46683817",
+        "title": "春の宵、虚空に散る余花。/ feat.梵そよぎ,音街ウナ",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 290,
+          "comment": 71,
+          "mylist": 20,
+          "like": 48
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46683817/46683817.19833826",
+        "owner_name": "セツナ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46683817"
+      },
+      {
+        "rank": 98,
+        "watch_id": "sm46703725",
+        "title": "cream soda / x-x feat.ルウル",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 131,
+          "comment": 30,
+          "mylist": 31,
+          "like": 42
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703725/46703725.1057365",
+        "owner_name": "x-x",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703725"
+      },
+      {
+        "rank": 99,
+        "watch_id": "sm46694836",
+        "title": "不幸を匿っている / 重音テト",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 404,
+          "comment": 31,
+          "mylist": 19,
+          "like": 40
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46694836/46694836.62826771",
+        "owner_name": "rukaku",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46694836"
+      },
+      {
+        "rank": 100,
+        "watch_id": "sm46703789",
+        "title": "marbling／百夜カエル (feat.IA)",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 163,
+          "comment": 19,
+          "mylist": 36,
+          "like": 50
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703789/46703789.12245446",
+        "owner_name": "百夜カエル",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703789"
+      }
+    ]
+  }
+}

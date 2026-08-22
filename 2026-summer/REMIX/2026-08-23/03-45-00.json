@@ -1,0 +1,1525 @@
+{
+  "source": "https://vocaloid-collection.jp",
+  "collected_at": "2026-08-23T03:45:00.000176+09:00",
+  "season": "2026-summer",
+  "ranking": {
+    "label": "Remix",
+    "status": "active",
+    "period": {
+      "start": "2026-08-22T00:00:00+09:00",
+      "end": "2026-08-24T17:00:00+09:00"
+    },
+    "source_url": "https://vocaloid-collection.jp/ranking/remix/",
+    "ranking_id": 329894,
+    "item_source": "official_page_live_api",
+    "fallback_reason": null,
+    "tag": "ボカコレ2026夏REMIX参加曲",
+    "tag_url": "https://www.nicovideo.jp/tag/%E3%83%9C%E3%82%AB%E3%82%B3%E3%83%AC2026%E5%A4%8FREMIX%E5%8F%82%E5%8A%A0%E6%9B%B2",
+    "count": 100,
+    "total_count": 100,
+    "has_next": false,
+    "embedded_item_count": 100,
+    "items": [
+      {
+        "rank": 1,
+        "watch_id": "sm46667118",
+        "title": "デロスサントス - namigroove remix -",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 26742,
+          "comment": 3222,
+          "mylist": 387,
+          "like": 2701
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46667118/46667118.62210962",
+        "owner_name": "なみぐる",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46667118"
+      },
+      {
+        "rank": 2,
+        "watch_id": "sm46706184",
+        "title": "ラビットホールをエロい目で見るな / 重音テトSV",
+        "registered_at": "2026-08-22T10:47:01+09:00",
+        "counts": {
+          "view": 7806,
+          "comment": 404,
+          "mylist": 97,
+          "like": 787
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46706184/46706184.55211564",
+        "owner_name": "すとろー",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46706184"
+      },
+      {
+        "rank": 3,
+        "watch_id": "sm46614907",
+        "title": "【検証】炉心融解のアナグラムでデロスサントスを再現できるのか？",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 4920,
+          "comment": 732,
+          "mylist": 101,
+          "like": 822
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46614907/46614907.73687298",
+        "owner_name": "ぼけのろ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46614907"
+      },
+      {
+        "rank": 4,
+        "watch_id": "sm46707449",
+        "title": "ブレインロット - TakoyakiKZY Remix",
+        "registered_at": "2026-08-22T17:00:00+09:00",
+        "counts": {
+          "view": 590,
+          "comment": 41,
+          "mylist": 75,
+          "like": 150
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46707449/46707449.9258155",
+        "owner_name": "TakoyakiKZY",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46707449"
+      },
+      {
+        "rank": 5,
+        "watch_id": "sm46709423",
+        "title": "メズマライザー　バンドRemix ヒロモト ヒライシン x 駄菓子O型 x 堀江晶太",
+        "registered_at": "2026-08-22T22:24:43+09:00",
+        "counts": {
+          "view": 626,
+          "comment": 87,
+          "mylist": 63,
+          "like": 135
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46709423/46709423.6900770",
+        "owner_name": "ヒロモト ヒライシン",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46709423"
+      },
+      {
+        "rank": 6,
+        "watch_id": "sm46674302",
+        "title": "メズマライザルーム",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 6801,
+          "comment": 179,
+          "mylist": 157,
+          "like": 848
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46674302/46674302.16113569",
+        "owner_name": "Theas",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46674302"
+      },
+      {
+        "rank": 7,
+        "watch_id": "sm46707938",
+        "title": "テーブルクロス引き　3日目",
+        "registered_at": "2026-08-23T00:00:00+09:00",
+        "counts": {
+          "view": 163,
+          "comment": 71,
+          "mylist": 13,
+          "like": 44
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46707938/46707938.45149701",
+        "owner_name": "セリフ@サバ威張るP",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46707938"
+      },
+      {
+        "rank": 8,
+        "watch_id": "sm46698485",
+        "title": "『デロスサントス』Jazz×Funk×A cappella REMIX!!! by ちから",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 5828,
+          "comment": 504,
+          "mylist": 189,
+          "like": 814
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46698485/46698485.54257661",
+        "owner_name": "ちから",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46698485"
+      },
+      {
+        "rank": 9,
+        "watch_id": "sm46684460",
+        "title": "脳漿炸裂ガール（宮守文学remix）feat.初音ミク, 中国うさぎ【UK Garage】",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 3190,
+          "comment": 146,
+          "mylist": 231,
+          "like": 565
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46684460/46684460.35447740",
+        "owner_name": "宮守文学",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46684460"
+      },
+      {
+        "rank": 10,
+        "watch_id": "sm46696478",
+        "title": "まにまに　着水",
+        "registered_at": "2026-08-22T00:30:00+09:00",
+        "counts": {
+          "view": 3999,
+          "comment": 163,
+          "mylist": 89,
+          "like": 596
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46696478/46696478.30628151",
+        "owner_name": "ジヲ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46696478"
+      },
+      {
+        "rank": 11,
+        "watch_id": "sm46705645",
+        "title": "P海のサーチライト 〜FH Edition〜 重音テトSV",
+        "registered_at": "2026-08-22T12:00:00+09:00",
+        "counts": {
+          "view": 1468,
+          "comment": 153,
+          "mylist": 76,
+          "like": 291
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46705645/46705645.14467953",
+        "owner_name": "藤原ハガネ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46705645"
+      },
+      {
+        "rank": 12,
+        "watch_id": "sm46708708",
+        "title": "追跡！怪盗KAITO／KAITO・初音ミク with 鏡音リン・レン【アレンジCover】",
+        "registered_at": "2026-08-22T20:31:04+09:00",
+        "counts": {
+          "view": 497,
+          "comment": 60,
+          "mylist": 24,
+          "like": 95
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46708708/46708708.91656785",
+        "owner_name": "猫又れまの@たれまの",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46708708"
+      },
+      {
+        "rank": 13,
+        "watch_id": "sm46699781",
+        "title": "Hand in Hand / kz(livetune) - かげぴーぼーるRemix",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 703,
+          "comment": 50,
+          "mylist": 56,
+          "like": 129
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46699781/46699781.66633197",
+        "owner_name": "かげぴーぼーる",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46699781"
+      },
+      {
+        "rank": 14,
+        "watch_id": "sm46579440",
+        "title": "乳首をデロい目で見るな!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 3603,
+          "comment": 243,
+          "mylist": 48,
+          "like": 396
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46579440/46579440.37436895",
+        "owner_name": "ネクトル",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46579440"
+      },
+      {
+        "rank": 15,
+        "watch_id": "sm46691416",
+        "title": "オーバー！[NY R3M1X] / 重音テト",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 3115,
+          "comment": 154,
+          "mylist": 202,
+          "like": 531
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46691416/46691416.11414452",
+        "owner_name": "夏山よつぎ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46691416"
+      },
+      {
+        "rank": 16,
+        "watch_id": "sm46579427",
+        "title": "三不粘をめっちゃエロい目で見る（さわやか生REMIX）",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 4267,
+          "comment": 501,
+          "mylist": 142,
+          "like": 650
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46579427/46579427.67010103",
+        "owner_name": "楽器の妖精ミュージカ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46579427"
+      },
+      {
+        "rank": 17,
+        "watch_id": "sm46703662",
+        "title": "ループザルーム【ぺぽよREMIX】♪asa",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 6995,
+          "comment": 705,
+          "mylist": 193,
+          "like": 925
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703662/46703662.32498012",
+        "owner_name": "ぺぽよ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703662"
+      },
+      {
+        "rank": 18,
+        "watch_id": "sm46693153",
+        "title": "椎名もた - 少女A 市瀬るぽ Remix",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 4008,
+          "comment": 104,
+          "mylist": 130,
+          "like": 367
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46693153/46693153.3361927",
+        "owner_name": "市瀬るぽ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46693153"
+      },
+      {
+        "rank": 19,
+        "watch_id": "sm46699160",
+        "title": "ハムパチーノ・キンタロキャンディ (DJ KOO CANDY DO DANCE REMIX)",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 4962,
+          "comment": 553,
+          "mylist": 46,
+          "like": 268
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46699160/46699160.33370223",
+        "owner_name": "ハムパチーノ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46699160"
+      },
+      {
+        "rank": 20,
+        "watch_id": "sm46708000",
+        "title": "いーあるふぁんくらぶ(レトロダンス Remix) / Luuc1A feat.結月ゆかり&紲星あかり【ゆづきず投稿祭2026】",
+        "registered_at": "2026-08-22T20:00:00+09:00",
+        "counts": {
+          "view": 193,
+          "comment": 29,
+          "mylist": 5,
+          "like": 40
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46708000/46708000.18889039",
+        "owner_name": "Luuc1A",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46708000"
+      },
+      {
+        "rank": 21,
+        "watch_id": "sm46702612",
+        "title": "ダイダイダイダイダイキライ(冥月Remix/poetry星界)",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 354,
+          "comment": 37,
+          "mylist": 16,
+          "like": 87
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46702612/46702612.31064018",
+        "owner_name": "冥月",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46702612"
+      },
+      {
+        "rank": 22,
+        "watch_id": "sm46696589",
+        "title": "天ノ弱(Remix)",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 546,
+          "comment": 410,
+          "mylist": 25,
+          "like": 99
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46696589/46696589.83704074",
+        "owner_name": "大井一矢【オオイカズヤ】",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46696589"
+      },
+      {
+        "rank": 23,
+        "watch_id": "sm46678102",
+        "title": "ラプス / 初音ミク [Lunabitt. Remix]",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 326,
+          "comment": 16,
+          "mylist": 30,
+          "like": 46
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46678102/46678102.23948042",
+        "owner_name": "Lunabitt.",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46678102"
+      },
+      {
+        "rank": 24,
+        "watch_id": "sm46703765",
+        "title": "脳漿サクレティックO.T.N",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 408,
+          "comment": 11,
+          "mylist": 25,
+          "like": 78
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703765/46703765.78397371",
+        "owner_name": "SAND",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703765"
+      },
+      {
+        "rank": 25,
+        "watch_id": "sm46708676",
+        "title": "ドキドキ☆雪歌ユフ真夏の熱異常サバイバル",
+        "registered_at": "2026-08-22T20:15:15+09:00",
+        "counts": {
+          "view": 219,
+          "comment": 50,
+          "mylist": 5,
+          "like": 39
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46708676/46708676.77175923",
+        "owner_name": "甘海老燕",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46708676"
+      },
+      {
+        "rank": 26,
+        "watch_id": "sm46703433",
+        "title": "ブレインロット/重音テト remix",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 2286,
+          "comment": 169,
+          "mylist": 177,
+          "like": 391
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703433/46703433.95986783",
+        "owner_name": "ほいっぷ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703433"
+      },
+      {
+        "rank": 27,
+        "watch_id": "sm46702796",
+        "title": "デロスサントス - ElectroSwing Remix",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 1596,
+          "comment": 145,
+          "mylist": 69,
+          "like": 296
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46702796/46702796.21843465",
+        "owner_name": "タダ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46702796"
+      },
+      {
+        "rank": 28,
+        "watch_id": "sm46710264",
+        "title": "はやくにげなきゃ なんか遅いし怖くないリミックス",
+        "registered_at": "2026-08-23T01:59:38+09:00",
+        "counts": {
+          "view": 16,
+          "comment": 0,
+          "mylist": 1,
+          "like": 2
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46710264/46710264.12731690",
+        "owner_name": "ナマウータン＆たぬっぽ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46710264"
+      },
+      {
+        "rank": 29,
+        "watch_id": "sm46703993",
+        "title": "kz(livetune) - Hand in Hand (GO+ Remix)",
+        "registered_at": "2026-08-22T00:26:33+09:00",
+        "counts": {
+          "view": 734,
+          "comment": 14,
+          "mylist": 36,
+          "like": 268
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703993/46703993.43447838",
+        "owner_name": "GO+",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703993"
+      },
+      {
+        "rank": 30,
+        "watch_id": "sm46703097",
+        "title": "ラストリゾート/ Remix by.有酸化",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 216,
+          "comment": 16,
+          "mylist": 16,
+          "like": 47
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703097/46703097.79546022",
+        "owner_name": "有酸化",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703097"
+      },
+      {
+        "rank": 31,
+        "watch_id": "sm46703152",
+        "title": "春嵐 - Okita Remix",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 813,
+          "comment": 41,
+          "mylist": 48,
+          "like": 144
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703152/46703152.62703262",
+        "owner_name": "Okita",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703152"
+      },
+      {
+        "rank": 32,
+        "watch_id": "sm46696675",
+        "title": "空想フォレスト(akuta renri Remix)",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 1049,
+          "comment": 58,
+          "mylist": 104,
+          "like": 190
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46696675/46696675.3890750",
+        "owner_name": "芥田レンリ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46696675"
+      },
+      {
+        "rank": 33,
+        "watch_id": "sm46703023",
+        "title": "みくみくにしてあげる♪【してやんよ】サタスコremix",
+        "registered_at": "2026-08-22T00:04:06+09:00",
+        "counts": {
+          "view": 503,
+          "comment": 52,
+          "mylist": 36,
+          "like": 109
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703023/46703023.24210107",
+        "owner_name": "サタスコ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703023"
+      },
+      {
+        "rank": 34,
+        "watch_id": "sm46703639",
+        "title": "少女A (Syun_Remix)",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 71,
+          "comment": 11,
+          "mylist": 3,
+          "like": 16
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703639/46703639.31989192",
+        "owner_name": "Syun",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703639"
+      },
+      {
+        "rank": 35,
+        "watch_id": "sm46703586",
+        "title": "命に嫌われている。/ Covered by My Best Vocals",
+        "registered_at": "2026-08-22T00:03:13+09:00",
+        "counts": {
+          "view": 240,
+          "comment": 12,
+          "mylist": 8,
+          "like": 31
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703586/46703586.35926581",
+        "owner_name": "天雲鈴",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703586"
+      },
+      {
+        "rank": 36,
+        "watch_id": "sm46702207",
+        "title": "C.L.I.P. / 初音ミク - Mi7s3 (あたたかい水族館REMIX)",
+        "registered_at": "2026-08-22T00:05:00+09:00",
+        "counts": {
+          "view": 931,
+          "comment": 61,
+          "mylist": 113,
+          "like": 201
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46702207/46702207.20815660",
+        "owner_name": "あたたかい水族館",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46702207"
+      },
+      {
+        "rank": 37,
+        "watch_id": "sm46687334",
+        "title": "『アンノウン・マザーグース if world summer Remix』feat. 初音ミク",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 259,
+          "comment": 13,
+          "mylist": 16,
+          "like": 52
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46687334/46687334.89270061",
+        "owner_name": "YuA",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46687334"
+      },
+      {
+        "rank": 38,
+        "watch_id": "sm46707524",
+        "title": "マイケル・デロスサントス・ジャクソン (remix by camel-leon)",
+        "registered_at": "2026-08-22T17:00:00+09:00",
+        "counts": {
+          "view": 101,
+          "comment": 6,
+          "mylist": 3,
+          "like": 17
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46707524/46707524.9244568",
+        "owner_name": "camel-leon",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46707524"
+      },
+      {
+        "rank": 39,
+        "watch_id": "sm46703875",
+        "title": "かめりあ - 電光刹歌 (feat. 初音ミク) Speedcore Remix",
+        "registered_at": "2026-08-22T00:03:07+09:00",
+        "counts": {
+          "view": 381,
+          "comment": 41,
+          "mylist": 13,
+          "like": 53
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703875/46703875.3260223",
+        "owner_name": "Orat Jelly",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703875"
+      },
+      {
+        "rank": 40,
+        "watch_id": "sm46702491",
+        "title": "再現.leaperのリミックス",
+        "registered_at": "2026-08-22T10:05:06+09:00",
+        "counts": {
+          "view": 409,
+          "comment": 80,
+          "mylist": 24,
+          "like": 80
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46702491/46702491.18526735",
+        "owner_name": "逆抽出",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46702491"
+      },
+      {
+        "rank": 41,
+        "watch_id": "sm46699834",
+        "title": "ずんだプリンのつくりかた",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 558,
+          "comment": 75,
+          "mylist": 38,
+          "like": 124
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46699834/46699834.92793078",
+        "owner_name": "どんの音楽工房",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46699834"
+      },
+      {
+        "rank": 42,
+        "watch_id": "sm46686040",
+        "title": "天ノ弱 音ノ奏デル感ジRemix 【ニコニコ20周年REMIX】",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 130,
+          "comment": 18,
+          "mylist": 7,
+          "like": 28
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46686040/46686040.59618486",
+        "owner_name": "ニコマーゼル【音ノ奏人】",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46686040"
+      },
+      {
+        "rank": 43,
+        "watch_id": "sm46674684",
+        "title": "CHANEL Kobayashi (シャネル小林) ’26 / feat.Sheena",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 235,
+          "comment": 61,
+          "mylist": 19,
+          "like": 66
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46674684/46674684.74759730",
+        "owner_name": "つっきーP/Tsukkey P",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46674684"
+      },
+      {
+        "rank": 44,
+        "watch_id": "sm46706939",
+        "title": "ロクデナシ - スピカ feat.重音テト (K*C*HACK Remix)",
+        "registered_at": "2026-08-22T19:00:00+09:00",
+        "counts": {
+          "view": 51,
+          "comment": 0,
+          "mylist": 1,
+          "like": 6
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46706939/46706939.52329236",
+        "owner_name": "C*Yuki(K*C*HACK)",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46706939"
+      },
+      {
+        "rank": 45,
+        "watch_id": "sm46702989",
+        "title": "Hand in Hand feat. 初音ミク / Sui Remix",
+        "registered_at": "2026-08-22T00:01:49+09:00",
+        "counts": {
+          "view": 98,
+          "comment": 1,
+          "mylist": 1,
+          "like": 10
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46702989/46702989.62560064",
+        "owner_name": "Sui",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46702989"
+      },
+      {
+        "rank": 46,
+        "watch_id": "sm46699639",
+        "title": "ルナ・エクリプス 音無あふRemix［Original:BCNO］",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 137,
+          "comment": 6,
+          "mylist": 16,
+          "like": 35
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46699639/46699639.66647230",
+        "owner_name": "音無あふ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46699639"
+      },
+      {
+        "rank": 47,
+        "watch_id": "sm46680234",
+        "title": "【ドミニカの大砲】ラ　ス　ボ　ス　サ　ン　ト　ス【ボス戦風アレンジ】",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 1336,
+          "comment": 211,
+          "mylist": 31,
+          "like": 129
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46680234/46680234.79834383",
+        "owner_name": "ダオウ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46680234"
+      },
+      {
+        "rank": 48,
+        "watch_id": "sm46642714",
+        "title": "ブレインロット / シャリンノREMIX",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 113,
+          "comment": 10,
+          "mylist": 11,
+          "like": 24
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46642714/46642714.89881067",
+        "owner_name": "シャリンノ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46642714"
+      },
+      {
+        "rank": 49,
+        "watch_id": "sm46617117",
+        "title": "空に免じて（混声三部合唱風／Choir Bond・Voice 123）【ボカコレ2026夏REMIX】【ホントの合唱】",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 140,
+          "comment": 0,
+          "mylist": 1,
+          "like": 3
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46617117/46617117.96367961",
+        "owner_name": "ほぼコーラス　by　絆一二三",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46617117"
+      },
+      {
+        "rank": 50,
+        "watch_id": "sm46593849",
+        "title": "全部アンパンマン楽器だけでダイダイダイダイダイキライやってみた",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 3396,
+          "comment": 174,
+          "mylist": 47,
+          "like": 193
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46593849/46593849.60671513",
+        "owner_name": "すやぴ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46593849"
+      },
+      {
+        "rank": 51,
+        "watch_id": "sm46709734",
+        "title": "六兆年と一夜物語【和ロック REMIX】- feat. 初音ミク",
+        "registered_at": "2026-08-22T23:35:10+09:00",
+        "counts": {
+          "view": 56,
+          "comment": 9,
+          "mylist": 2,
+          "like": 10
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46709734/46709734.39742900",
+        "owner_name": "ヱマサキ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46709734"
+      },
+      {
+        "rank": 52,
+        "watch_id": "sm46702955",
+        "title": "メルティランドナイトメア(はるまきごはん)/cover：琴葉姉妹【NEUTRINO】",
+        "registered_at": "2026-08-22T00:06:10+09:00",
+        "counts": {
+          "view": 181,
+          "comment": 14,
+          "mylist": 9,
+          "like": 30
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46702955/46702955.8403674",
+        "owner_name": "東北家の野望",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46702955"
+      },
+      {
+        "rank": 53,
+        "watch_id": "sm46666410",
+        "title": "Amber Haze / みなみ遣水 (オヨイダキビスremix)",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 450,
+          "comment": 37,
+          "mylist": 64,
+          "like": 117
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46666410/46666410.5373482",
+        "owner_name": "オヨイダキビス",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46666410"
+      },
+      {
+        "rank": 54,
+        "watch_id": "sm46703443",
+        "title": "獣謳無尽 (Nyacktas Remix) / picco × ど～ぱみん feat. 初音ミク, 重音テト, りむる [Bass House]",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 157,
+          "comment": 6,
+          "mylist": 17,
+          "like": 31
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703443/46703443.59160470",
+        "owner_name": "Nyacktas",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703443"
+      },
+      {
+        "rank": 55,
+        "watch_id": "sm46703164",
+        "title": "双葉と寄港地 feat.双葉湊音（Rev.2026）",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 251,
+          "comment": 55,
+          "mylist": 25,
+          "like": 87
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703164/46703164.89638409",
+        "owner_name": "秋露",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703164"
+      },
+      {
+        "rank": 56,
+        "watch_id": "sm46614889",
+        "title": "きゅうくらりん  ぐちょぐちょRemix (DDLC Edition)",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 627,
+          "comment": 35,
+          "mylist": 4,
+          "like": 62
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46614889/46614889.91650424",
+        "owner_name": "ぼけのろ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46614889"
+      },
+      {
+        "rank": 57,
+        "watch_id": "sm46706123",
+        "title": "4小節ごとにジャンルが変わるデロスサントス",
+        "registered_at": "2026-08-22T10:34:06+09:00",
+        "counts": {
+          "view": 736,
+          "comment": 63,
+          "mylist": 17,
+          "like": 100
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46706123/46706123.15820684",
+        "owner_name": "スパニキ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46706123"
+      },
+      {
+        "rank": 58,
+        "watch_id": "sm46710240",
+        "title": "ハーモニー/重音テト てふRemix",
+        "registered_at": "2026-08-23T02:06:06+09:00",
+        "counts": {
+          "view": 22,
+          "comment": 0,
+          "mylist": 0,
+          "like": 1
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46710240/46710240.92923089",
+        "owner_name": "てふ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46710240"
+      },
+      {
+        "rank": 59,
+        "watch_id": "sm46710190",
+        "title": "雄之助 [初音未来] -ジェットブラック // Kryokin Remix",
+        "registered_at": "2026-08-23T01:54:41+09:00",
+        "counts": {
+          "view": 20,
+          "comment": 0,
+          "mylist": 0,
+          "like": 1
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46710190/46710190.827818",
+        "owner_name": "Kryokin",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46710190"
+      },
+      {
+        "rank": 60,
+        "watch_id": "sm46708992",
+        "title": "乳首vsダンプカーをデロい目で見るな!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+        "registered_at": "2026-08-22T20:50:41+09:00",
+        "counts": {
+          "view": 596,
+          "comment": 49,
+          "mylist": 4,
+          "like": 64
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46708992/46708992.23429489",
+        "owner_name": "ネクトル",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46708992"
+      },
+      {
+        "rank": 61,
+        "watch_id": "sm46702516",
+        "title": "ロストワンの号哭 - バッチバチのスラップアレンジでベースで弾いてみた",
+        "registered_at": "2026-08-22T00:05:49+09:00",
+        "counts": {
+          "view": 564,
+          "comment": 20,
+          "mylist": 2,
+          "like": 21
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46702516/46702516.78836542",
+        "owner_name": "かねこてぃま",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46702516"
+      },
+      {
+        "rank": 62,
+        "watch_id": "sm46684910",
+        "title": "東京真中-ブレインロット feat. 重音テト（DJ moriking Mix) 〜東京の真ん中巡回編",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 108,
+          "comment": 123,
+          "mylist": 11,
+          "like": 34
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46684910/46684910.69141297",
+        "owner_name": "DJ moriking",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46684910"
+      },
+      {
+        "rank": 63,
+        "watch_id": "sm46579596",
+        "title": "Q -Remix- feat.mikiSV2",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 216,
+          "comment": 15,
+          "mylist": 18,
+          "like": 47
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46579596/46579596.28789377",
+        "owner_name": "JB",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46579596"
+      },
+      {
+        "rank": 64,
+        "watch_id": "sm46707819",
+        "title": "稲葉曇 - パスカルビーツ（由末イリ Remix）",
+        "registered_at": "2026-08-22T20:00:00+09:00",
+        "counts": {
+          "view": 289,
+          "comment": 53,
+          "mylist": 32,
+          "like": 66
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46707819/46707819.76414930",
+        "owner_name": "由末イリ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46707819"
+      },
+      {
+        "rank": 65,
+        "watch_id": "sm46704205",
+        "title": "あまりにもやる気のないCutie mew mew magicの傍ら人に募集したイラストを見る",
+        "registered_at": "2026-08-22T00:12:44+09:00",
+        "counts": {
+          "view": 180,
+          "comment": 6,
+          "mylist": 4,
+          "like": 21
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46704205/46704205.64046332",
+        "owner_name": "安易に改名",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46704205"
+      },
+      {
+        "rank": 66,
+        "watch_id": "sm46703607",
+        "title": "良かったこのhyperflipで [再現.leaper mezz0 remix]",
+        "registered_at": "2026-08-22T00:00:59+09:00",
+        "counts": {
+          "view": 259,
+          "comment": 17,
+          "mylist": 14,
+          "like": 34
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703607/46703607.52511784",
+        "owner_name": "mezz0",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703607"
+      },
+      {
+        "rank": 67,
+        "watch_id": "sm46696582",
+        "title": "生命 (OLDUCT Remix) / オヨイダキビス",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 745,
+          "comment": 34,
+          "mylist": 90,
+          "like": 164
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46696582/46696582.11356733",
+        "owner_name": "OLDUCT",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46696582"
+      },
+      {
+        "rank": 68,
+        "watch_id": "sm46643366",
+        "title": "ワールドイズマイン by L'Av-en-Ir",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 262,
+          "comment": 82,
+          "mylist": 24,
+          "like": 84
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46643366/46643366.3877790",
+        "owner_name": "ぎっちょ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46643366"
+      },
+      {
+        "rank": 69,
+        "watch_id": "sm46708266",
+        "title": "＊ハロー、プラネット。　Remix by ボカロ広場",
+        "registered_at": "2026-08-22T19:33:21+09:00",
+        "counts": {
+          "view": 74,
+          "comment": 4,
+          "mylist": 0,
+          "like": 12
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46708266/46708266.24912320",
+        "owner_name": "金沢（カカシ）",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46708266"
+      },
+      {
+        "rank": 70,
+        "watch_id": "sm46707674",
+        "title": "ハッピーシンセサイザ/EasyPop(たたまれRemix)",
+        "registered_at": "2026-08-22T21:04:32+09:00",
+        "counts": {
+          "view": 79,
+          "comment": 5,
+          "mylist": 5,
+          "like": 11
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46707674/46707674.66101029",
+        "owner_name": "たたまれ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46707674"
+      },
+      {
+        "rank": 71,
+        "watch_id": "sm46704568",
+        "title": "からくりピエロ (Glasses Lovers Garage Remix)",
+        "registered_at": "2026-08-22T01:13:51+09:00",
+        "counts": {
+          "view": 90,
+          "comment": 4,
+          "mylist": 5,
+          "like": 11
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46704568/46704568.3789010",
+        "owner_name": "Glasses Lovers",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46704568"
+      },
+      {
+        "rank": 72,
+        "watch_id": "sm46704030",
+        "title": "あの夏が飽和する。/ 重音テト（REMIX）",
+        "registered_at": "2026-08-22T00:13:06+09:00",
+        "counts": {
+          "view": 142,
+          "comment": 20,
+          "mylist": 11,
+          "like": 37
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46704030/46704030.68486842",
+        "owner_name": "LasLaf / ラスラフ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46704030"
+      },
+      {
+        "rank": 73,
+        "watch_id": "sm46703982",
+        "title": "ひまわりれしーば / 春日部つむぎ",
+        "registered_at": "2026-08-22T00:13:35+09:00",
+        "counts": {
+          "view": 669,
+          "comment": 94,
+          "mylist": 20,
+          "like": 83
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703982/46703982.56288058",
+        "owner_name": "名無し｡",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703982"
+      },
+      {
+        "rank": 74,
+        "watch_id": "sm46703550",
+        "title": "ころしちゃった! (Nyacktas Remix) / 夏山よつぎ feat. 初音ミク [Twisted House]",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 168,
+          "comment": 4,
+          "mylist": 11,
+          "like": 34
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703550/46703550.83259540",
+        "owner_name": "Nyacktas",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703550"
+      },
+      {
+        "rank": 75,
+        "watch_id": "sm46702171",
+        "title": "夜明けと蛍(TV size ver.)【知声cover】",
+        "registered_at": "2026-08-22T00:04:43+09:00",
+        "counts": {
+          "view": 49,
+          "comment": 5,
+          "mylist": 3,
+          "like": 15
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46702171/46702171.60583090",
+        "owner_name": "するめの味噌焼き",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46702171"
+      },
+      {
+        "rank": 76,
+        "watch_id": "sm46697071",
+        "title": "アスノヨゾラ哨戒班 -此地球人リオ Remix / feat.夢ノ結唱 ROSE",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 192,
+          "comment": 2,
+          "mylist": 2,
+          "like": 16
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46697071/46697071.80897585",
+        "owner_name": "此地球人リオ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46697071"
+      },
+      {
+        "rank": 77,
+        "watch_id": "sm46674603",
+        "title": "ファニー・インシピッド・キャンディ・ベンダー 犬ドRemix.mp4",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 1186,
+          "comment": 115,
+          "mylist": 45,
+          "like": 147
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46674603/46674603.98554219",
+        "owner_name": "犬ドリンク",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46674603"
+      },
+      {
+        "rank": 78,
+        "watch_id": "sm46709877",
+        "title": "KING - メタル remix -",
+        "registered_at": "2026-08-23T00:08:08+09:00",
+        "counts": {
+          "view": 14,
+          "comment": 0,
+          "mylist": 0,
+          "like": 4
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46709877/46709877.28954136",
+        "owner_name": "LEISN",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46709877"
+      },
+      {
+        "rank": 79,
+        "watch_id": "sm46706895",
+        "title": "みくみくにしてあげる♪【してやんよ】/ika　(たたまれRemix)",
+        "registered_at": "2026-08-22T18:30:00+09:00",
+        "counts": {
+          "view": 68,
+          "comment": 4,
+          "mylist": 3,
+          "like": 10
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46706895/46706895.40812941",
+        "owner_name": "たたまれ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46706895"
+      },
+      {
+        "rank": 80,
+        "watch_id": "sm46706266",
+        "title": "ロミオとシンデレラ/feat.初音ミク、里石ユカ　天使と悪魔Remix【ユ！】",
+        "registered_at": "2026-08-22T11:26:35+09:00",
+        "counts": {
+          "view": 80,
+          "comment": 3,
+          "mylist": 1,
+          "like": 5
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46706266/46706266.9581810",
+        "owner_name": "【ユ！】",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46706266"
+      },
+      {
+        "rank": 81,
+        "watch_id": "sm46704338",
+        "title": "ミクさんがメタルを始めたそうです",
+        "registered_at": "2026-08-22T00:35:08+09:00",
+        "counts": {
+          "view": 29,
+          "comment": 2,
+          "mylist": 1,
+          "like": 9
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46704338/46704338.23899538",
+        "owner_name": "ナカムラコウタ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46704338"
+      },
+      {
+        "rank": 82,
+        "watch_id": "sm46703694",
+        "title": "ベノム - ぽすけRemix",
+        "registered_at": "2026-08-22T00:00:20+09:00",
+        "counts": {
+          "view": 191,
+          "comment": 18,
+          "mylist": 7,
+          "like": 28
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703694/46703694.47540177",
+        "owner_name": "ぽすけ / posuke",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703694"
+      },
+      {
+        "rank": 83,
+        "watch_id": "sm46703220",
+        "title": "ハッピーシンセサイザ / EasyPop (ドーパミンドバドバRemix)",
+        "registered_at": "2026-08-22T00:05:52+09:00",
+        "counts": {
+          "view": 134,
+          "comment": 37,
+          "mylist": 11,
+          "like": 28
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46703220/46703220.36267223",
+        "owner_name": "頫キ。(ウツムキ)",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46703220"
+      },
+      {
+        "rank": 84,
+        "watch_id": "sm46702536",
+        "title": "ブレインロット ~ Jazzy Remix ~ / ヤシ feat.ナツメイツキ",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 146,
+          "comment": 30,
+          "mylist": 11,
+          "like": 38
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46702536/46702536.52687702",
+        "owner_name": "ヤシ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46702536"
+      },
+      {
+        "rank": 85,
+        "watch_id": "sm46700728",
+        "title": "Q/ナースロボ_タイプT muiRemix",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 139,
+          "comment": 9,
+          "mylist": 8,
+          "like": 26
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46700728/46700728.27695427",
+        "owner_name": "mui",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46700728"
+      },
+      {
+        "rank": 86,
+        "watch_id": "sm46698772",
+        "title": "パンダヒーロー - Caffeine Remix",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 161,
+          "comment": 9,
+          "mylist": 8,
+          "like": 22
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46698772/46698772.66613869",
+        "owner_name": "Caffeine",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46698772"
+      },
+      {
+        "rank": 87,
+        "watch_id": "sm46697423",
+        "title": "如月アテンション(Shiganai_Poteto Remix)",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 53,
+          "comment": 3,
+          "mylist": 2,
+          "like": 12
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46697423/46697423.43851255",
+        "owner_name": "しがないポテト",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46697423"
+      },
+      {
+        "rank": 88,
+        "watch_id": "sm46695559",
+        "title": "【初音ミク】またここで / ille【ひかるremix】",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 58,
+          "comment": 9,
+          "mylist": 5,
+          "like": 14
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46695559/46695559.28143015",
+        "owner_name": "ひかるりんご",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46695559"
+      },
+      {
+        "rank": 89,
+        "watch_id": "sm46692538",
+        "title": "ボカロ500曲MASHUP!!!!! by ネクトル",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 1507,
+          "comment": 474,
+          "mylist": 16,
+          "like": 91
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46692538/46692538.84569046",
+        "owner_name": "ネクトル",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46692538"
+      },
+      {
+        "rank": 90,
+        "watch_id": "sm46671904",
+        "title": "ブレインロット (sushinali Remix) feat. 鏡音レン",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 204,
+          "comment": 21,
+          "mylist": 17,
+          "like": 53
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46671904/46671904.25508946",
+        "owner_name": "すしなり",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46671904"
+      },
+      {
+        "rank": 91,
+        "watch_id": "sm46659229",
+        "title": "【Remix】みすてて / つくよみちゃん",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 74,
+          "comment": 7,
+          "mylist": 1,
+          "like": 17
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46659229/46659229.39841843",
+        "owner_name": "筑紫 椿",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46659229"
+      },
+      {
+        "rank": 92,
+        "watch_id": "sm46654382",
+        "title": "ボカコレおつかれさまでしたのうた。REMIX/初音ミクV6、重音テトSV2、#kzn",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 30,
+          "comment": 2,
+          "mylist": 2,
+          "like": 9
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46654382/46654382.94766397",
+        "owner_name": "シラカミ777",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46654382"
+      },
+      {
+        "rank": 93,
+        "watch_id": "sm46647100",
+        "title": "Hand in Hand -CueS REMIX- / Uekura Katsushi feat.京町セイカ&花隈千冬",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 91,
+          "comment": 17,
+          "mylist": 8,
+          "like": 16
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46647100/46647100.91919933",
+        "owner_name": "Uekura Katsushi",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46647100"
+      },
+      {
+        "rank": 94,
+        "watch_id": "sm46645315",
+        "title": "アイロニーナ_まぼ電remix(+ust配布)",
+        "registered_at": "2026-08-22T00:05:00+09:00",
+        "counts": {
+          "view": 136,
+          "comment": 1,
+          "mylist": 1,
+          "like": 13
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46645315/46645315.86841510",
+        "owner_name": "まぼろし電波",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46645315"
+      },
+      {
+        "rank": 95,
+        "watch_id": "sm46705544",
+        "title": "デロスサントスがつちからはえてくるんだ",
+        "registered_at": "2026-08-22T06:52:48+09:00",
+        "counts": {
+          "view": 1134,
+          "comment": 35,
+          "mylist": 15,
+          "like": 113
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46705544/46705544.91179611",
+        "owner_name": "とうだ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46705544"
+      },
+      {
+        "rank": 96,
+        "watch_id": "sm46698541",
+        "title": "『ポルターガイスト』Kai / 初音ミク　OTOαRemix",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 80,
+          "comment": 11,
+          "mylist": 5,
+          "like": 26
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46698541/46698541.53148351",
+        "owner_name": "OTOα / otoa",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46698541"
+      },
+      {
+        "rank": 97,
+        "watch_id": "sm46695886",
+        "title": "サワーチェリーが輝いたから TonKo2 HiTECH Remix",
+        "registered_at": "2026-08-22T19:00:00+09:00",
+        "counts": {
+          "view": 222,
+          "comment": 6,
+          "mylist": 15,
+          "like": 57
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46695886/46695886.10853345",
+        "owner_name": "まこ",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46695886"
+      },
+      {
+        "rank": 98,
+        "watch_id": "sm46704182",
+        "title": "ウルトラエッ乳首",
+        "registered_at": "2026-08-22T00:16:52+09:00",
+        "counts": {
+          "view": 775,
+          "comment": 37,
+          "mylist": 16,
+          "like": 81
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46704182/46704182.51051910",
+        "owner_name": "爆裂P",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46704182"
+      },
+      {
+        "rank": 99,
+        "watch_id": "sm46686202",
+        "title": "窓辺のモノローグ feat.初音ミク [ほうき堂 Remix]",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 498,
+          "comment": 67,
+          "mylist": 20,
+          "like": 77
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46686202/46686202.58662433",
+        "owner_name": "ほうき堂",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46686202"
+      },
+      {
+        "rank": 100,
+        "watch_id": "sm46668909",
+        "title": "ハード乳首なぞなぞ／宮舞モカ&重音テト（原曲：山本『乳首なぞなぞ』）",
+        "registered_at": "2026-08-22T00:00:00+09:00",
+        "counts": {
+          "view": 925,
+          "comment": 42,
+          "mylist": 9,
+          "like": 56
+        },
+        "thumbnail_url": "https://nicovideo.cdn.nimg.jp/thumbnails/46668909/46668909.13236675",
+        "owner_name": "intecho",
+        "nico_url": "https://www.nicovideo.jp/watch/sm46668909"
+      }
+    ]
+  }
+}
